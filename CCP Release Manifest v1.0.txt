@@ -1,0 +1,53 @@
+﻿CROSS-UPDATE STRESS TESTS FOR COSMOLOGICAL-CONSTANT MECHANISMS
+MACHINE-BACKED RELEASE MANIFEST
+Scholarly work:
+Cross-Update Stress Tests for Cosmological-Constant Mechanisms:
+A Pre-Specified Framework Across Perturbative, EFT, and Physical-State Changes
+Release class:
+Four-layer machine-backed scientific release package
+Coordinated package version:
+1.0
+ZENODO IDENTITY
+Version-specific DOI:
+10.5281/zenodo.23174925 
+Release status:
+New scholarly artifact / new Zenodo record
+GITHUB IDENTITY
+Repository:
+Cross_Update_Stress_Tests_Cosmological_Constant_Mechanisms
+RELEASE COMPONENTS
+1. Scientific anchor
+Filename:
+Stress Tests for Cosmological-Constant Mechanisms v1.7.txt
+SHA-256:
+b76f6550b93781f6bb06fad3c73b475cb1bfd7291ac8f749b06a640284b49120
+2. Human companion
+Filename:
+CCP Contract and Adapter Companion v0.7.txt
+SHA-256:
+82754f524d2a1a974d49b21b1dd3a0de97ccc653bb42fa5ffdaeedb9d7ff8f54
+3. CCP domain adapter
+Filename:
+CCP_Stability_Routing_Adapter_v0.7_CONSOLIDATED.lean
+SHA-256:
+41df602dfd20f0a4e9ddeb8e3411471f2572a999e310744f0003363f0cee49f9
+4. Universal Kernel
+Filename:
+Structural_Flow_Universal_Kernel_v1.0.lean
+SHA-256:
+b455ec869d062f0fc05d239c5006c843165cd598edbd8c35eae442ff471689a3
+MACHINE LOAD RELATION
+1. Structural_Flow_Universal_Kernel_v1.0.lean
+2. CCP_Stability_Routing_Adapter_v0.7_CONSOLIDATED.lean
+Machine-check status:
+The current CCP adapter was checked twice in browser Lean against the unchanged Structural Flow Universal Kernel v1.0 with no messages.
+AUTHORITY ORDER
+Physics and domain evidence supply the physical premises, calculations, transitions, observations, comparator support, uncertainties, and scientific adjudications.
+The scientific anchor owns the scientific questions, cross-update discipline, comparison logic, claim limits, and worked sequestering analysis.
+The human companion owns execution guidance, burden interpretation, evidence records, requiredness discipline, public reporting, and human-to-machine translation guidance.
+The CCP adapter maps already-adjudicated scientific states into encoded burdens, support conditions, licenses, and routing consequences.
+The Universal Kernel supplies reusable domain-neutral formal machinery.
+Lean checks encoded conditional consequences.
+Machine-clean is not physics-confirmed.
+PACKAGE CEILING
+This release does not establish that the cosmological-constant problem is solved, derive the observed numerical value of the cosmological constant, identify dark energy with vacuum energy, or allow machine execution to manufacture empirical premises.

@@ -1,0 +1,3726 @@
+﻿CCP Cross-Update Contract and Adapter Companion
+Package Orientation
+This companion is the human operating interface for the Cross-Update Stress Tests for Cosmological-Constant Mechanisms package.
+Its purpose is practical. It explains how a specialist moves from a scientific mechanism and a frozen claim to a reproducible case record, how that record is represented in the CCP adapter, what the machine can and cannot certify, and what evidence would change the resulting scientific status.
+The package has four distinct authority layers.
+Physics and domain evidence supply the physical mechanism, equations, source definitions, approximations, transitions, calculations, observations, comparator support, uncertainties, and empirical evidence.
+Cross-Update Stress Tests for Cosmological-Constant Mechanisms is the scientific anchor. It defines the scientific questions, cross-update discipline, comparison logic, claim limits, and worked sequestering analysis.
+The CCP Stability Routing Adapter represents already-adjudicated CCP states, required burdens, support conditions, case licenses, and routing firewalls in Lean.
+The Structural Flow Universal Kernel supplies reusable domain-neutral formal machinery used by the adapter.
+The companion does not outrank any of those layers. It translates among them.
+The governing direction is:
+scientific registration and support
+→ domain adjudication
+→ machine claim license
+→ downstream routing consistency
+Never reverse that direction.
+A machine-clean result does not make a physical premise true. Lean does not decide whether a source exists, a field-theory calculation is valid, a transition occurred, a comparator is scientifically adequate, a dataset is trustworthy, an exact mapping really holds, or a residual has actually been observed. Those remain physics-owned questions.
+The machine checks what follows if the released scientific record has been faithfully populated.
+The 22 Sₘ burdens are not a universal success checklist.
+The Sₘ experiment ledger is a claim-activated routing surface. The first eight successor burdens are constitutive of every live Sₘ case; the remaining seats become required only when the registered route, claim, comparison, completion, or frozen conditional rule activates them. A burden genuinely outside the claim is not required. A required but unresolved burden is OPEN, not absent. Sections 3–5 carry the full requiredness and execution grammar.
+The package is not an all-or-nothing test of “the cosmological-constant problem.”
+The scientific anchor separates protection / stability, empirical mechanism identification, and numerical realization. Those questions can lawfully end in different states. Protection does not imply identification; failure of one completion does not erase independently established parent protection; and a measured value does not by itself establish a separate value-selection mechanism. Section 1 states the scientific distinctions in full. 
+1. Scientific Orientation
+1.1 The object being tested
+The package begins from a specified mechanism M, not from the phrase “solution to the cosmological-constant problem.”
+The mechanism must state the physical job it claims to perform.
+For a joint protection claim, register a common protected functional:
+Πₘ[X; θ₀]
+Here:
+* Πₘ is the quantity, constraint, filtering relation, global condition, or source-to-geometry response whose protection is being claimed;
+* X is the class of physical inputs relevant to that claim;
+* θ₀ is the declared reference theory data.
+The same notation is not enough to unify unrelated claims. Every update included in one joint result must test the same physical job.
+If one branch protects a radiative source relation while another branch merely fits an unrelated observable, those branches do not become one cross-update protection result by being written with the same symbol.
+1.2 Three update classes
+The scientific anchor uses three update tests.
+R₁ — perturbative refinement
+R₁ asks whether Πₘ survives a controlled increase in perturbative completeness for the same physical target.
+The calculation order, background, renormalization prescription, relevant theory data, permitted running, uncertainty treatment, and protection criterion are fixed before the refined result is evaluated.
+A successful R₁ result is narrow: the registered protection relation survived that perturbative challenge without an unregistered readjustment.
+R₂ — resolution matching
+R₂ asks whether the protected relation survives a controlled change of effective resolution, such as threshold crossing or EFT matching.
+The higher-resolution description, matching prescription, inherited theory data, low-energy target, uncertainty treatment, and protected relation are frozen.
+A successful R₂ result does not establish arbitrary ultraviolet protection. It establishes survival of the registered matching challenge at the declared scope.
+Sₘ — physical successor
+Sₘ asks a different kind of question.
+A real physical state changes. The mechanism claims either that the same relevant physical account continues through that successor, that the protected baseline remains protected there, or that the successor produces a mechanism-specific response.
+Sₘ therefore requires an actual physical successor rather than a redescription alone.
+There is no universal Sₘ laboratory.
+The laboratory follows from the mechanism.
+A local pressure- or trace-sensitive mechanism may make a compact object relevant. An early-universe transition mechanism may require cosmological history. A global or historic mechanism may require global cosmology. A homogeneous-background mechanism may make a local compact object irrelevant.
+The framework does not choose a convenient laboratory first and then ask the mechanism to fit it.
+1.3 Claim profile is not the same as empirical adjudication type
+The adapter records a ClaimProfile describing what cross-update structure the mechanism claims:
+* fitOnly
+* descriptionProtection
+* successorContinuity
+* successorProtection
+* descriptionAndContinuity
+* fullProtection
+* unresolved
+This answers:
+What does the mechanism claim?
+A separate human field must state the empirical adjudication type for the particular execution.
+Examples include:
+* deviation / mechanism-identification claim;
+* empirical-protection claim;
+* bound-only claim;
+* one-way falsification / consistency claim;
+* completion-viability claim;
+* exact-non-identification audit.
+This answers:
+What is this execution trying to establish?
+Do not collapse those questions.
+A mechanism with fullProtection may be subjected to a particular experiment whose immediate purpose is only mechanism identification.
+Conversely, an experiment showing one observable deviation does not automatically establish every protection claim carried by the mechanism.
+The empirical adjudication type determines which downstream comparison, reach, and data burdens become live.
+1.4 Protection is not identification
+A mechanism can be non-vacuously protective and still fail to identify itself observationally.
+If a mechanism fixes the relevant datum through its own equations or constraints, its protection result need not become fit-only merely because a reference theory can reproduce the realized observables after fitting an allowed constant.
+That distinction is central to the package.
+Protection asks whether the mechanism carries the registered physical relation through the declared challenge without unregistered retuning.
+Identification asks whether the mechanism can be distinguished from the admitted comparator on the frozen channel set.
+Those are separate results.
+1.5 Exact non-identifiability is not inadequate sensitivity
+The comparison sequence matters.
+First ask whether the mechanism prediction can be exactly represented or absorbed by the admitted comparator over the frozen channels.
+Then complete the broader comparator / degeneracy audit.
+Only if a nonzero residual survives does sensitivity become the limiting question.
+Therefore:
+exact comparator degeneracy
+→ NOT IDENTIFIABLE on the declared channels
+→ sensitivity becomes non-required for that branch.
+But:
+nonzero residual survives
+→ sensitivity becomes live.
+If the residual is smaller than the frozen experimental reach, the correct result is BELOW SENSITIVITY.
+These endpoints must not be exchanged.
+Better precision cannot rescue a channel that is exactly degenerate.
+Likewise, an inaccessible physical object or an OPEN forward model cannot be described as a sensitivity failure.
+1.6 OPEN is not FAIL
+A burden can remain scientifically live without being adjudicated strongly enough to pass or fail.
+Examples include:
+* an inaccessible required history;
+* an unresolved source identity;
+* an incomplete forward model;
+* an unsettled comparator;
+* insufficient data;
+* an unfinished exact-absorption audit.
+OPEN means the scientific burden remains unanswered.
+It does not mean the mechanism failed.
+This distinction is especially important for whole-history claims. If the relevant physical object requires information that is not presently accessible, the correct result is an open access burden—not a sensitivity limit and not an empirical failure.
+1.7 Completion failure is not parent-mechanism failure
+A completion is a separately identified scientific object.
+If a particular completion fails its registered role, report the completion failure at that scope.
+Do not silently promote:
+completion failure
+into:
+parent protection failure.
+A public negative result must identify both:
+FAILED / BLOCKING OBJECT
+the exact completion, branch, burden, or support condition that failed;
+and:
+PARENT / PARALLEL STATUS NOT CHANGED
+the independently established result that the negative case does not erase.
+1.8 Numerical realization becomes live only when the theory supplies the claim
+A measured value does not by itself create a physical value-selection mechanism.
+If a theory claims that the realized cosmological term is determined, restricted, statistically distributed, dynamically selected, globally constrained, or otherwise rendered non-free, register that mechanism and its decision rule as a distinct scientific claim.
+If the theory makes no such claim, numerical realization is not a failed burden.
+It is not live.
+The framework therefore does not demand an answer to “why this number?” in the abstract.
+It asks the narrower question:
+What physical rule does this theory claim makes the realized number non-arbitrary, and what calculation or observation could show that claim to be wrong?
+2. Registering a Case Before Lean
+Do not begin by filling Lean constructors.
+Begin with a scientific registration record.
+The machine record is downstream of this registration.
+2.1 Case identity
+Record:
+CASE IDENTIFIER
+A stable identifier for the scientific case.
+MECHANISM
+Exact theory, model, construction, or completion being tested.
+MECHANISM VERSION / SOURCE
+The exact scientific source or frozen model definition.
+CASE PHASE
+One of:
+* planned;
+* in execution;
+* completed / adjudicated.
+The same case identifier should bind the scientific registration, human burden manifest, machine population, evidence record, and released execution.
+2.2 Claim profile
+State what the mechanism actually claims.
+Does it claim:
+* description protection under R₁ and/or R₂?
+* continuity through a real physical successor?
+* protection of the relevant successor baseline?
+* some combination of those claims?
+* none of them beyond a fit?
+Map that declaration into the adapter ClaimProfile.
+If the scientific source is not clear enough to determine the claim profile, use unresolved.
+Do not choose a stronger profile because it creates a more interesting machine result.
+2.3 Update class
+State what kind of update is present in this case.
+The adapter distinguishes:
+description(perturbativeRefinement)
+R₁ only.
+description(resolutionMatching)
+R₂ only.
+physicalSuccessor
+a real physical successor without a simultaneous description update.
+mixed(d)
+a declared description update and a real physical successor are both present.
+unresolved
+the update class is not scientifically fixed strongly enough.
+mixed is a routing instruction. It does not create a fourth scientific update species.
+2.4 Empirical adjudication type
+State what this execution is trying to establish.
+Examples:
+* mechanism discrimination;
+* empirical protection;
+* exact non-identification;
+* bound only;
+* one-way falsification;
+* consistency check;
+* completion viability;
+* another explicitly scoped result.
+This field is human-facing but load-bearing.
+It determines which downstream burdens become required.
+Do not infer the empirical adjudication type merely from the ClaimProfile.
+2.5 Common protected functional
+Register:
+Πₘ[X; θ₀]
+State in ordinary physics language what it does.
+Then perform the same-job test:
+Would every branch included in the claimed joint result still be recognizably testing the same physical protection job if the notation were removed?
+If not, split the case.
+2.6 Free-datum ledger
+List every datum on which the registered claim depends, including where applicable:
+* integration constants;
+* global variables;
+* initial data;
+* boundary data;
+* fitted offsets;
+* externally fixed constants;
+* nuisance parameters;
+* other freely selectable quantities.
+For each datum, state whether it is:
+* fixed by the mechanism;
+* externally fixed;
+* an initial or boundary input;
+* inherited through a theory-owned map;
+* or freely fitted.
+A datum may not be silently re-selected after each update and still count as one non-vacuous cross-update protection result.
+2.7 Source object and frame response
+State what physical source object the mechanism actually answers.
+Examples include:
+* total stress-energy;
+* trace;
+* pressure;
+* density;
+* another operational total-state quantity;
+* a specially defined subcomponent;
+* a global average;
+* a nonlocal quantity;
+* a homogeneous-background object.
+Where vacuum-offset sensitivity is part of the claim, state the mechanism’s response in the matter-coupled frame to the relevant source shift.
+If a uniform source shift is not the relevant physical variation, say so.
+Do not force every mechanism into one source decomposition.
+A specially defined subcomponent must have a physical identity beyond bookkeeping at the claimed scope.
+2.8 Actual Sₘ variation
+For every live physical-successor case, register the actual physical variation:
+ΔXₛ
+State:
+* the pre-state;
+* successor state;
+* physical transition;
+* changed physical quantity;
+* source object affected;
+* and how the mechanism equations connect that variation to the registered protected relation.
+The existence of a generic protection theorem elsewhere in the theory does not substitute for this connection.
+2.9 Reference theory data and lawful parameter flow
+Freeze the reference theory data:
+θ₀
+or a predeclared admissible region:
+Θ₀
+For each branch, state the theory-owned inheritance map:
+θᵢ = Fᵢ(θ₀)
+Lawful inheritance may include:
+* RG running;
+* EFT matching;
+* state dressing;
+* screening;
+* global constraints;
+* boundary evolution;
+* another theory-owned transformation.
+Distinguish lawful evolution of frozen theory data from branch-specific retuning.
+2.10 Scale / state bridge
+Register the mechanism-owned bridge Bₘ.
+State:
+* what physical content is carried;
+* which equations or constraints carry it;
+* which data are inherited;
+* what degrees of freedom are integrated out or activated;
+* what environmental dependence is allowed;
+* and what uncertainty is introduced.
+The bridge need not be a universal beta-function chain.
+It must be the actual theory-owned route connecting the claimed physical job across the updates being joined.
+2.11 Sₘ route
+For a live physical-successor case, choose the route from the mechanism’s physics:
+epochLocal
+The relevant successor claim is tested through a local or epoch-restricted channel.
+historicalProtectedTransition
+A protected-sector physical transition or historical successor is itself the experiment object.
+wholeHistory
+The mechanism’s claim depends on a global or complete-history object.
+Choose the route before target-result access.
+Do not select a route because it produces the preferred outcome.
+2.12 Channel set
+Freeze the observable, dataset, calculation, or other adjudication channel set.
+The channel set defines where the scientific comparison will be made.
+It does not by itself establish:
+* access to a required whole-history object;
+* availability of a valid forward model;
+* adequate data;
+* or discriminating power.
+Those remain separate burdens.
+2.13 Comparator family
+Freeze the strongest scientifically admissible reference comparator for the declared claim.
+Include all allowed freedom relevant to the comparison, such as:
+* fitted parameters;
+* initial or boundary data;
+* nuisance freedom;
+* microphysical uncertainty;
+* calibration freedom;
+* other scientifically admissible adjustable structure.
+Do not weaken the comparator to manufacture discrimination.
+For an empirical-protection claim, separately register an unprotected comparator where the claim requires one.
+2.14 Serious alternatives
+For a positive mechanism-identification claim, freeze the family of serious signal-mimicking alternatives relevant to the declared identification scope.
+The requirement is scoped.
+It does not demand exclusion of every logically imaginable future theory.
+It does require a scientifically defensible rule for why the alternatives included are adequate for the claim being made.
+2.15 Exact-absorption and degeneracy rule
+Before examining the target result, freeze how exact absorption will be tested.
+The scientific sequence is:
+1. test whether the mechanism prediction can be exactly represented within the admitted comparator freedom;
+2. complete the broader comparator / degeneracy analysis over the frozen channels;
+3. if a nonzero residual survives, proceed to sensitivity.
+A successfully completed mappability audit is DISCHARGED whether its scientific outcome is:
+* exact mapping established;
+* or exact mapping excluded.
+Likewise, a successfully completed degeneracy audit is DISCHARGED whether it finds:
+* exact degeneracy;
+* or a surviving residual.
+The audit disposition records whether the procedure was lawfully completed.
+The human ADJUDICATION OUTCOME records what that completed audit found.
+Do not confuse those two jobs.
+2.16 Sensitivity rule
+Freeze the reach criterion before examining the target result.
+Sensitivity is conditionally required when a nonzero residual survives the exact-absorption / comparator audit.
+A canonical requiredness statement is:
+CONDITIONAL (exact absorption is excluded AND a nonzero residual survives the frozen comparator audit).
+If exact degeneracy is established, that trigger is false and sensitivity becomes non-required for the final branch.
+If a residual survives, the trigger is true and sensitivity must be adjudicated.
+The trigger rule itself may not be rewritten after seeing the result.
+2.17 Result rule
+Freeze what will count as the relevant terminal states before target-result access.
+Depending on the claim, those states may include:
+* PASS;
+* FAIL;
+* NOT IDENTIFIABLE;
+* BELOW SENSITIVITY;
+* OPEN / unresolved;
+* a scoped bound;
+* a one-way falsification;
+* a completion-specific negative result.
+Do not invent the result taxonomy after seeing what the calculation or data produced.
+2.18 Requiredness freeze record
+For each Sₘ burden, register:
+REQUIREDNESS
+as one of:
+ALWAYS
+CONDITIONAL(trigger)
+NOT REQUIRED
+For every CONDITIONAL seat, record:
+* the exact trigger;
+* the branch on which it becomes required;
+* the lawful state if the trigger is not met;
+* the pre-target version or freeze identity.
+In a working machine snapshot:
+* ALWAYS maps to some disposition;
+* CONDITIONAL with unresolved trigger maps to some .open;
+* CONDITIONAL with trigger true remains some disposition;
+* CONDITIONAL with trigger false under the frozen rule maps to none;
+* NOT REQUIRED maps to none.
+Executing a predeclared conditional-requiredness rule is not a result-freeze violation.
+Changing the trigger after target-result access is.
+2.19 No-self-support rule
+A terminal scientific result may not be used as the evidence that discharges its own prerequisite.
+Forbidden examples include:
+NOT IDENTIFIABLE
+→ therefore mappability was discharged.
+DISCRIMINATING
+→ therefore the degeneracy audit was discharged.
+PASS
+→ therefore sensitivity was adequate.
+the observed result was negative
+→ therefore the case was a valid falsifier.
+The lawful direction is:
+frozen scientific question and method
+→ independent calculation / observation / audit
+→ adjudication outcome
+→ terminal semantic classification.
+2.20 Evidence record
+For every burden used in a real case, keep a human evidence record containing at minimum:
+BURDEN
+Exact machine burden name.
+REQUIREDNESS
+ALWAYS / CONDITIONAL(trigger) / NOT REQUIRED.
+STATUS
+DISCHARGED / VIOLATED / OPEN / none as lawfully applicable.
+SCIENTIFIC SOURCE
+Paper, equation, calculation, simulation, dataset, preregistration, or other evidence.
+SUPPORTED PROPOSITION
+The exact scientific proposition that source supports.
+EVIDENTIARY ROLE
+One of:
+* pre-result prerequisite;
+* audit procedure;
+* audit outcome;
+* terminal result;
+* post-result consistency check.
+SCOPE
+The physical and scientific scope of the proposition.
+EVIDENCE PHASE
+Where material:
+* forecast / planned;
+* achieved / observed;
+* post-execution audit.
+ADJUDICATION OUTCOME
+For audit-style seats such as mappability and degeneracy testing, state what the valid completed procedure actually found.
+One source may support multiple seats only when the supported proposition for each seat is stated separately.
+Shared citation is not circularity.
+Shared proposition masquerading as multiple independent supports can be.
+3. Adapter Semantics and State Grammar
+The adapter does not decide whether a cosmological-constant mechanism is physically correct.
+Its job is narrower.
+Given a scientifically populated case, it preserves:
+what the mechanism claims
+→ what kind of update is present
+→ which burdens are live
+→ what the domain says about those burdens
+→ what result state is admissible
+→ what positive or negative machine license follows at the encoded scope.
+Physics owns the premises and adjudications.
+Lean checks the conditional routing.
+3.1 Top-level claim and update routing
+The top-level routing layer uses three burden families:
+descriptionProtection
+successorLineage
+successorBaselineProtection
+These burdens are activated jointly by the registered ClaimProfile and UpdateClass.
+Description protection
+descriptionProtection is live only when:
+* the claim profile includes description protection; and
+* the update contains a description update.
+A pure physical successor does not activate description protection merely because the mechanism also possesses a description-protection theorem elsewhere.
+Successor lineage
+successorLineage is live only when:
+* the claim profile includes successor continuity; and
+* the update contains a real physical successor.
+This burden asks whether the later physical state really belongs to the successor lineage being claimed.
+A pure R₁ or R₂ description update does not activate successor lineage.
+Successor-baseline protection
+successorBaselineProtection is live only when:
+* the claim profile includes protection of the successor baseline; and
+* the update contains a real physical successor.
+A successor-baseline-protection claim cannot be live without successor lineage also being live.
+That dependency matters.
+Before asking whether a protected baseline survived into a successor, the case must first establish that the proposed later state is genuinely the successor whose lineage is being claimed.
+3.2 Routing uncertainty
+The adapter contains a routing firewall for unresolved claims and updates.
+An unresolved ClaimProfile blocks cross-update routing.
+An unresolved UpdateClass likewise blocks cross-update routing when the mechanism has registered a protection or continuity claim.
+The exception is fitOnly.
+If the mechanism registers no cross-update protection claim at all, then an unresolved update does not manufacture a live cross-update burden. The result remains NOT LIVE.
+The machine therefore does not convert uncertainty into a stronger claim merely because a case record exists.
+3.3 CasePacket
+Top-level routing is represented by:
+CasePacket
+with three fields:
+claim : ClaimProfile
+update : UpdateClass
+rawStatus : Burden → BurdenStatus
+The scientific domain populates rawStatus.
+Lean does not discover whether a burden passed, failed, is unresolved, or is not live.
+The top-level raw status vocabulary is:
+PASS
+FAIL
+NOT LIVE
+UNRESOLVED
+These are scientific routing states for top-level burdens.
+They are not the same vocabulary used by the twenty-two Sₘ experiment seats.
+3.4 Raw status and effective status
+The adapter distinguishes the status supplied by the scientific record from the status that survives routing normalization.
+effectiveStatus applies the claim/update logic.
+The rules are:
+Routing unresolved
+→ effective status is UNRESOLVED.
+Burden genuinely live + raw NOT LIVE
+→ effective status becomes UNRESOLVED.
+A live burden therefore cannot be hidden by simply entering NOT LIVE.
+Burden genuinely not live
+→ effective status is NOT LIVE.
+Otherwise the supplied raw status survives.
+This normalization is logical only.
+It does not verify that the scientific adjudication used to populate the raw status was correct.
+3.5 Aggregate disposition
+The top-level case also has an aggregate disposition.
+Its precedence is:
+* FAIL
+* UNRESOLVED
+* PASS
+* NOT LIVE
+PASS requires at least one effective PASS burden.
+A case in which every burden is NOT LIVE does not become PASS.
+The aggregate result is deliberately coarse.
+It must never be published without the component burden vector.
+A public report should therefore state, at minimum:
+descriptionProtection: status
+successorLineage: status
+successorBaselineProtection: status
+aggregate disposition: status
+An aggregate FAIL means that at least one live top-level burden failed.
+It does not mean that every component claim failed.
+This firewall is especially important when a completion-specific or successor-specific failure coexists with a surviving parent protection result.
+3.6 Successor lineage and the PAA machine note
+The adapter may reuse compatible Post-Authorization Answerability machinery from the Universal Kernel when representing successor lineage.
+That is a formal lineage aid.
+It is not a cosmological mechanism.
+PAA does not:
+* create a physical successor;
+* supply transition dynamics;
+* self-tune vacuum energy;
+* determine a cosmological future;
+* choose a history;
+* or manufacture physical continuity.
+Physics supplies the transition, the state identities, and the dynamics.
+The machine checks only the encoded lineage relation after those premises are supplied.
+3.7 SemanticPacket — the scientific result surface
+A channel-specific scientific result is represented by:
+SemanticPacket ChannelSet
+It contains:
+channelSet
+admission
+applicability
+rawExecution
+provenance
+protection
+channelRelation
+evidenceDependence
+These fields perform different jobs.
+Do not use one as a substitute for another merely because two fields sometimes carry similar language.
+3.8 AdmissionState
+Admission asks whether the scientific case is sufficiently specified to enter the downstream adjudication at all.
+The machine states are:
+admitted
+or:
+notAdmitted(reason)
+Current admission blockers are:
+sourceOpen
+shiftOpen
+bridgeOpen
+protectedFunctionalOpen
+freeDatumLedgerOpen
+Examples include:
+* the relevant source object is not identified;
+* the actual shift or physical variation is unresolved;
+* the scale/state bridge is missing;
+* Πₘ is not sufficiently specified;
+* the free-datum ledger is incomplete.
+NOT ADMITTED is not FAIL.
+It means the scientific case has not yet earned entry into the downstream execution surface.
+3.9 ApplicabilityState
+Applicability asks whether the admitted mechanism and registered laboratory actually support the proposed test.
+The machine states are:
+live
+notLive
+outOfDomain
+notIdentifiable
+live
+The registered mechanism makes a relevant claim in the proposed domain and the route remains scientifically live.
+notLive
+No relevant registered claim exists at that branch or scope.
+outOfDomain
+The proposed laboratory or regime lies outside the mechanism’s admitted domain.
+This is not the same as a negative experiment.
+If the theory does not apply there, failure of the proposed laboratory does not test the mechanism.
+notIdentifiable
+The mechanism is exactly non-identifiable against the admitted comparator over the frozen channel set under the registered comparison.
+This is channel-relative.
+It does not mean universal observational equivalence.
+3.10 ExecutionState
+The raw execution vocabulary is:
+notRun
+pass
+fail
+unresolved(reason)
+Current execution blockers are:
+belowSensitivity
+forwardModelOpen
+insufficientData
+theoryDependenceUnmodeled
+channelOpen
+rawExecution is the state supplied by the domain adjudication.
+effectiveExecution is the state after admission and applicability gates are applied.
+Only:
+ADMITTED + LIVE
+allows the raw execution result to survive.
+Every other admission/applicability combination normalizes effective execution to:
+notRun
+This creates several important firewalls.
+NOT ADMITTED cannot become execution PASS.
+OUT OF DOMAIN cannot become execution PASS.
+NOT LIVE cannot become execution PASS.
+NOT IDENTIFIABLE cannot become execution PASS.
+A user can syntactically type a raw PASS into one of those cases, but the adapter does not permit that raw value to become an effective PASS.
+3.11 Result / Evidence Provenance
+The Lean type is named:
+PassProvenance
+The human job is broader, so this companion refers to it as:
+RESULT / EVIDENCE PROVENANCE
+Its fields are:
+structural
+computational
+empirical
+More than one may be true.
+These fields identify the evidentiary route supporting the populated adjudication.
+They do not mean that the overall result must be PASS.
+For example, a controlled computation may support a scientifically meaningful FAIL.
+Do not read PassProvenance as “provenance exists only for positive results.”
+The name is retained in Lean for compatibility.
+3.12 ProtectionNonVacuity
+The protection field distinguishes:
+nonvacuous
+fitOnly
+open
+nonvacuous
+The mechanism’s own equations, constraints, inheritance rules, or other registered structure fix the relevant protection strongly enough that the result is not produced merely by independently re-fitting the relevant datum after the update.
+fitOnly
+The result depends on free re-selection in a way that does not support the registered non-vacuous protection claim.
+open
+The distinction has not yet been adjudicated strongly enough.
+A FIT-ONLY case cannot satisfy the adapter’s structural-protection PASS predicate.
+3.13 ChannelRelation
+The channel relation describes the relation between M and the admitted comparator on the frozen channel set.
+The current states are:
+discriminating
+constraintFixedChannelEquivalent
+belowSensitivity
+forwardModelOpen
+channelOpen
+discriminating
+M and the admitted comparator differ at the registered criterion over the frozen channels.
+constraintFixedChannelEquivalent
+M fixes or restricts the relevant datum through its own mechanism, but the resulting prediction is exactly reproduced on the frozen channels by the admitted reference description with allowed fitted freedom.
+This is deliberately not fitOnly.
+The mechanism may be structurally non-vacuous while still being observationally non-identifying on the declared channels.
+belowSensitivity
+A nonzero difference survives, but it lies below the registered reach.
+forwardModelOpen
+The relevant prediction cannot yet be generated strongly enough to complete the comparison.
+channelOpen
+A required observational, calculational, historical, or other adjudication channel remains unavailable or unclosed.
+ExecutionState and ChannelRelation sometimes use similar words.
+They are not the same field.
+Execution asks what state the registered execution occupies.
+Channel relation asks what relation currently holds between the mechanism and comparator on the frozen channel set.
+Lean does not derive one automatically from the other.
+The scientific record must populate them coherently.
+3.14 EvidenceDependence
+The evidence-dependence states are:
+independent
+partiallyShared
+sameStructuralIdentity
+This field prevents rhetorical double-counting.
+R₁ and R₂ may each be legitimate distinct update tests while both results depend on one underlying exact identity.
+That does not collapse the tests into one branch.
+It does mean they should not be advertised as two independent mechanisms of confirmation.
+EvidenceDependence is not a statistical covariance model.
+It is an evidentiary lineage record.
+3.15 StructuralProtectionPass
+At the SemanticPacket level, a structural-protection PASS requires:
+* effective execution = PASS;
+* structural provenance = true;
+* protection = nonvacuous.
+It does not require empirical channel discrimination.
+Therefore:
+structural protection PASS
+≠
+empirical discrimination PASS
+The adapter contains this firewall explicitly.
+3.16 EmpiricalDiscriminationPass
+A SemanticPacket satisfies empirical discrimination only when:
+* effective execution = PASS;
+* empirical provenance = true;
+* channelRelation = discriminating.
+This is a packet classifier.
+It is not an independent proof that the underlying experiment really discriminated the mechanism.
+The domain supplies the scientific adjudication.
+The machine checks whether the supplied state satisfies the encoded classifier.
+3.17 Two different status grammars
+The adapter intentionally uses two status systems.
+Top-level routing
+PASS
+FAIL
+NOT LIVE
+UNRESOLVED
+Sₘ experiment seats
+DISCHARGED
+VIOLATED
+OPEN
+or:
+none
+These vocabularies must not be mixed.
+NOT LIVE is a top-level routing status.
+none means that a particular ledger seat is not required in the supplied experiment record.
+They are related ideas but not interchangeable machine states.
+Most importantly:
+none does not mean unknown.
+A required but unresolved experiment burden must be:
+some .open
+not:
+none
+3.18 The three Sₘ routes
+The adapter contains three physical-successor routes.
+epochLocal
+A successor claim is evaluated through a declared local or epoch-restricted channel.
+historicalProtectedTransition
+A protected-sector transition or historical physical successor is itself the experiment object.
+wholeHistory
+The mechanism’s claim depends on a whole-history or global-history object.
+The mechanism’s physics chooses the route.
+The route is frozen before target-result inspection.
+A route label is not evidence that the route is viable.
+It only identifies which experimental architecture is being attempted.
+3.19 SuccessorExperimentLedger
+The Sₘ ledger contains:
+route
+and:
+seat : SuccessorExperimentBurden → Option ExperimentDisposition
+Each burden therefore contains either:
+some .discharged
+some .violated
+some .open
+or:
+none
+The scientific domain owns:
+* which seats are required;
+* the evidence for each seat;
+* the seat disposition;
+* and the justification for every none.
+Lean preserves the record.
+It does not decide whether a none choice was scientifically legitimate.
+3.20 The constitutive first eight seats
+The first eight Sₘ burdens are special.
+They are constitutive of any CCP physical-successor case:
+1. realChange
+2. protectedSectorMembership
+3. piRelevantChange
+4. mechanismApplicability
+5. inheritedTheoryData
+6. variationConnection
+7. falsificationConnection
+8. freeDatumStability
+The adapter requires all eight to be explicitly declared.
+They may be:
+DISCHARGED,
+VIOLATED,
+or OPEN.
+They may not be hidden as:
+none
+If one is scientifically trivial in a particular case, discharge it with an explicit scientific basis.
+Do not encode triviality as non-requirement.
+3.21 ExperimentSeatClosed
+A seat is machine-closed when:
+* it is none, meaning not required; or
+* it is DISCHARGED.
+A VIOLATED seat is not closed for positive readiness.
+An OPEN seat is not closed for positive readiness.
+This machine rule does not itself determine whether a seat was lawfully declared non-required.
+That remains a scientific requiredness question.
+3.22 ExperimentReadyForEmpiricalRun
+The adapter name is:
+ExperimentReadyForEmpiricalRun
+Its exact public meaning is narrower than the name may suggest.
+It means:
+positive closure of all machine-required seats in the supplied versioned ledger snapshot.
+It requires:
+* all eight constitutive successor seats to be explicitly declared; and
+* every seat currently represented as required to be machine-closed.
+It does not by itself mean:
+* the apparatus is chronologically ready to begin acquisition;
+* the experiment has been run;
+* the mechanism passed;
+* an empirical result exists;
+* the selected requiredness manifest was scientifically complete;
+* or the supplied seat evidence is physically correct.
+Human case phase remains separate:
+* planned;
+* in execution;
+* completed / adjudicated.
+Phase-sensitive burdens must be re-audited before a completed public result is released.
+3.23 Support, adjudication, license, consistency
+The checked adapter preserves a strict inferential direction:
+SUPPORT
+→ DOMAIN ADJUDICATION
+→ CLAIM LICENSE
+→ DOWNSTREAM ROUTING CONSISTENCY
+The machine does not reverse an arrow.
+StructuralProtectionSupportReady
+This is outcome-independent support for a positive Sₘ structural-protection result.
+It requires:
+* ExperimentReadyForEmpiricalRun; and
+* resultFreeze = DISCHARGED.
+Additional claim-specific required seats remain governed by the human requiredness manifest.
+EmpiricalDiscriminationSupportReady
+A positive empirical-discrimination claim additionally requires explicit discharge of:
+* forwardModel;
+* channelSet;
+* fittedComparator;
+* alternativeCoverage;
+* mappability;
+* degeneracyTest;
+* sensitivity;
+* dataAdequacy;
+* dataConsistency;
+* resultFreeze.
+Other seats may also be required by the route or claim.
+ExactNonIdentificationSupportReady
+A scoped exact-non-identification result requires:
+* positive ledger closure;
+* forwardModel = DISCHARGED;
+* channelSet = DISCHARGED;
+* fittedComparator = DISCHARGED;
+* mappability = DISCHARGED;
+* degeneracyTest = DISCHARGED;
+* resultFreeze = DISCHARGED.
+It does not use:
+sensitivity = none
+as evidence for non-identification.
+The lawful direction is:
+valid exact-mapping / degeneracy adjudication
+→ NOT IDENTIFIABLE
+→ sensitivity becomes non-required
+Never:
+sensitivity non-required
+→ therefore NOT IDENTIFIABLE
+BelowSensitivitySupportReady
+A BELOW SENSITIVITY result has a separate support surface.
+The first eight constitutive burdens must be explicitly declared and DISCHARGED.
+Every other honestly required burden except sensitivity must be closed.
+The following must be DISCHARGED:
+* forwardModel;
+* channelSet;
+* fittedComparator;
+* mappability;
+* degeneracyTest;
+* resultFreeze.
+And:
+sensitivity = VIOLATED
+This prevents an upstream OPEN burden from being redescribed as inadequate reach.
+A whole-history case with historyClosure = OPEN, for example, cannot be licensed as BELOW SENSITIVITY.
+3.24 SuccessorLineageSupportReady
+A live successor claim is not enough for a strong Sₘ result.
+The top-level successor-lineage burden must itself PASS.
+The checked adapter therefore requires:
+effectiveStatus successorLineage = PASS
+for the strong Sₘ case licenses.
+This prevents a case from saying simultaneously:
+“successor lineage failed”
+and:
+“the successor experiment produced a licensed mechanism-discrimination result.”
+3.25 Case-level result licenses
+The adapter supplies machine licenses for several strong result classes.
+These are conditional licenses over a supplied scientific adjudication.
+They are not independent empirical proofs.
+StructuralProtectionCaseLicensed
+Requires:
+* successor lineage PASS;
+* successor-baseline protection is a live registered claim;
+* structural-protection support is ready;
+* the top-level successor-baseline-protection result is PASS;
+* the SemanticPacket satisfies StructuralProtectionPass.
+The two terminal result surfaces must agree.
+Neither one proves the other.
+EmpiricalDiscriminationCaseLicensed
+Requires:
+* successor lineage PASS;
+* empirical-discrimination support ready;
+* the SemanticPacket satisfies EmpiricalDiscriminationPass.
+ExactNonIdentificationCaseLicensed
+Requires:
+* successor lineage PASS;
+* exact-non-identification support ready;
+* admission = admitted;
+* applicability = notIdentifiable;
+* raw execution = notRun.
+BelowSensitivityCaseLicensed
+Requires:
+* successor lineage PASS;
+* below-sensitivity support ready;
+* admission = admitted;
+* applicability = live;
+* raw execution = unresolved belowSensitivity;
+* channel relation = belowSensitivity.
+3.26 ExactNonIdentificationRoutingConsistent
+The adapter separately checks one downstream consequence of exact non-identification.
+If:
+applicability = notIdentifiable
+then:
+sensitivity = none
+This is a consistency rule.
+It does not help prove the exact-non-identification result itself.
+3.27 SuccessorExperimentCase and the human coherence audit
+SuccessorExperimentCase pairs:
+* one experiment ledger;
+* one SemanticPacket.
+The structure does not claim that every possible scientific relationship between those records has been machine-verified.
+Before public release, the human coherence audit must still check that:
+* the route matches the mechanism;
+* every none is justified;
+* conditional requiredness followed its frozen trigger;
+* admission agrees with the source record;
+* applicability agrees with the mechanism/domain relation;
+* execution state agrees with the scientific case;
+* audit outcomes agree with the terminal SemanticPacket labels;
+* channel relation agrees with the actual comparator analysis;
+* provenance agrees with the evidence;
+* top-level routing and experiment records refer to the same released case.
+A machine-clean case can still be scientifically mis-populated.
+The public package must make that ceiling visible.
+4. Sₘ Experiment Contract — 22-Burden Dictionary
+The twenty-two experiment burdens are grouped into four operational families:
+I. Core successor admission and same-theory carry
+1–8
+II. Completion, history, and prediction
+9–12
+III. Comparator, identifiability, and reach
+13–19
+IV. Data and execution integrity
+20–22
+The first eight are ALWAYS required for a live CCP Sₘ case.
+Burdens 9–22 are activated by the registered route, empirical claim type, and predeclared conditional rules.
+For every burden record:
+* REQUIREDNESS
+* STATUS
+* SCIENTIFIC SOURCE
+* SUPPORTED PROPOSITION
+* EVIDENTIARY ROLE
+* SCOPE
+and, where applicable:
+* EVIDENCE PHASE
+* ADJUDICATION OUTCOME
+One source may support more than one burden.
+The supported proposition must be stated separately for each burden.
+4.1 realChange — Real Physical Successor
+Question
+Did a real physical state change occur, rather than merely a redescription, reparameterization, perturbative refinement, or change of effective resolution?
+Requiredness
+ALWAYS.
+Why this seat exists
+Sₘ is specifically the physical-successor branch.
+A description update cannot become an Sₘ experiment merely because the calculation changes.
+Admissible evidence
+Accepted domain physics establishing the state change, transition, or actual physical variation.
+DISCHARGED
+A real physical successor of the registered type is established.
+VIOLATED
+The alleged successor is only descriptive or otherwise not the real physical transition being claimed.
+OPEN
+The physical status of the proposed change remains unresolved.
+If VIOLATED
+Do not report an Sₘ experimental failure merely because the branch was misclassified.
+Route the scientific question through the appropriate description-update architecture if applicable.
+4.2 protectedSectorMembership — Protected / Responding Source-Class Membership
+Question
+Does the changing source or state belong to the physical class that the mechanism actually answers?
+Requiredness
+ALWAYS.
+Why this seat exists
+Not every mechanism requires a special vacuum/matter decomposition.
+The relevant class may be:
+* total stress-energy;
+* trace;
+* pressure;
+* density;
+* another total-state object;
+* a special source component;
+* a global average;
+* a nonlocal object;
+* another mechanism-defined source class.
+Admissible evidence
+The action, equations, coupling rules, source definition, constraint, or equivalent theory-owned specification.
+DISCHARGED
+The physical object belongs to the mechanism’s registered protected or responding source class at the declared scope.
+VIOLATED
+The proposed successor object lies outside the class answered by the registered mechanism.
+OPEN
+Source membership or ownership remains unresolved.
+Special-component firewall
+If the mechanism acts on a specially separated subcomponent, its identity must be physically established beyond bookkeeping and fixed before target-result access.
+4.3 piRelevantChange — Πₘ-Relevant Physical Change
+Question
+Does the successor actually alter an input relevant to Πₘ or to the physical state on which the registered protected relation depends?
+Requiredness
+ALWAYS.
+Neighbor distinction
+protectedSectorMembership asks:
+Is this the kind of object M answers?
+piRelevantChange asks:
+Did this particular successor change something relevant to Πₘ?
+An object can belong to the responding source class while a particular variation remains irrelevant to the protected job.
+Admissible evidence
+Πₘ, the governing equations, source-response relation, or another theory-owned connection.
+DISCHARGED
+The real successor alters a physical input relevant to the registered protected relation.
+VIOLATED
+The successor occurs, but the changed quantity is irrelevant to the registered Πₘ burden.
+OPEN
+Relevance has not been established.
+If not discharged
+The proposed successor does not test the registered protection claim.
+4.4 mechanismApplicability — Mechanism Applicability
+Question
+Does M apply in the proposed environment, epoch, density regime, scale, state, or laboratory?
+Requiredness
+ALWAYS.
+Neighbor distinction
+This is a ledger burden.
+It is not identical to the SemanticPacket ApplicabilityState.
+The ledger seat records the evidence-bearing burden.
+The SemanticPacket records the resulting scientific state.
+Admissible evidence
+The mechanism’s domain assumptions, controlled approximation regime, equations, validity conditions, and accepted domain evidence.
+DISCHARGED
+The proposed laboratory lies within the mechanism’s scientifically admitted domain.
+VIOLATED
+The proposed laboratory lies outside the mechanism’s applicable domain.
+OPEN
+Applicability remains unresolved.
+If VIOLATED
+The proposed laboratory cannot adjudicate that mechanism-specific claim.
+Do not interpret an out-of-domain calculation as a negative test of the mechanism.
+4.5 inheritedTheoryData — Inherited Theory Data
+Question
+Does the branch inherit the same frozen theory data through a lawful theory-owned map?
+Requiredness
+ALWAYS.
+Job
+Prevent separate branch-specific parameter choices from masquerading as one cross-update result.
+Admissible evidence
+The registered map θᵢ = Fᵢ(θ₀), including where applicable:
+* RG running;
+* EFT matching;
+* screening;
+* state dressing;
+* global constraints;
+* boundary evolution;
+* another theory-owned inheritance rule.
+DISCHARGED
+The branch data derive from θ₀ or Θ₀ according to the predeclared theory-owned rule.
+VIOLATED
+A new independent branch-specific choice or retuning is required.
+OPEN
+The inheritance map is not controlled strongly enough.
+Neighbor distinction
+inheritedTheoryData asks whether the same theory ancestry is preserved.
+freeDatumStability asks whether relevant free data are reselected after the update.
+They are related but distinct.
+4.6 variationConnection — Successor Variation Connection
+Question
+Do the mechanism equations actually connect the real successor variation ΔXₛ to the registered protected relation?
+Requiredness
+ALWAYS.
+Why this seat exists
+A mechanism may possess a valid protection result for one type of change while the proposed physical successor presents a different physical variation.
+Uniform source-shift protection, for example, does not automatically establish response to a localized, time-dependent, gradient-sensitive, screened, or symmetry-changing successor.
+Admissible evidence
+The mechanism equations or constraints evaluated for the actual registered ΔXₛ.
+DISCHARGED
+The real physical variation is connected to the claimed protection or response.
+VIOLATED
+The mechanism does not answer that variation in the way the proposed Sₘ test requires.
+OPEN
+The connection remains unresolved.
+If not discharged
+An unrelated protection theorem cannot stand in for the physical-successor test.
+4.7 falsificationConnection — Prospective Claim/Falsifier Connection
+Question
+Before target-result access, would failure of the registered Sₘ prediction actually defeat or narrow the registered CCP claim?
+Requiredness
+ALWAYS.
+Why this seat exists
+A mechanism may make interesting phenomenological predictions that are not actually load-bearing for its cosmological-constant protection claim.
+A failed side prediction is not automatically a failed CCP mechanism.
+Admissible evidence
+The frozen claim profile, equations, physical role of the Sₘ response, and predeclared relationship between the proposed result and the claim.
+DISCHARGED
+Before seeing the result, the experiment is already a genuine test of the registered CCP claim.
+VIOLATED
+The proposed phenomenon could fail while the registered protection claim survives untouched.
+OPEN
+The relation between experimental failure and the CCP claim is unclear.
+Anti-circularity rule
+Do not discharge this seat because the observed result later happened to be negative.
+The falsification connection must be prospective.
+4.8 freeDatumStability — Free-Datum Stability
+Question
+Are the free data relevant to Πₘ held fixed, externally fixed, mechanism-fixed, or lawfully inherited under the frozen rules across the update?
+Requiredness
+ALWAYS.
+Admissible evidence
+The free-datum ledger and governing equations or constraints.
+DISCHARGED
+No post-update free re-selection is needed to obtain the claimed result.
+VIOLATED
+The apparent protection depends on refitting or reselecting a relevant free datum after the update.
+OPEN
+The free-data status remains unresolved.
+If VIOLATED
+A non-vacuous protection claim is blocked at that scope.
+4.9 completionIdentity — Completion Identity
+Question
+If the case tests a completion, is the proposed completion scientifically identified as the parent mechanism or as the particular predeclared extension whose result is being attributed?
+Requiredness
+Claim-dependent.
+Usually NOT REQUIRED for a parent-only case that does not adjudicate a completion.
+Required when a result is being attributed to a specific completion.
+Admissible evidence
+The completion action, equations, field content, parameter inheritance, frozen model definition, and relationship to the parent mechanism.
+DISCHARGED
+The completion under test is clearly identified and its inheritance relation is fixed.
+VIOLATED
+The tested construction is not the completion to which the claimed result is being attributed.
+OPEN
+Completion identity or inheritance remains unclear.
+Result ceiling
+A completion result may be attributed only to the completion actually registered.
+A materially different completion is a new case.
+4.10 completionViability — Completion Viability
+Question
+Can the registered completion perform its stated joint physical role under the governing theoretical and observational constraints?
+Requiredness
+Claim-dependent.
+Required for a completion-viability case.
+Not automatically required for a parent mechanism test.
+Admissible evidence
+Controlled solutions, calculations, simulations, and admissible observations for the frozen completion.
+DISCHARGED
+The registered completion remains viable for its stated role.
+This is a viability result, not positive identification of the parent mechanism.
+VIOLATED
+The registered completion cannot satisfy its stated joint role.
+OPEN
+Viability remains undecided.
+Parent firewall
+A completion-specific VIOLATED result does not automatically erase an independently established parent protection result.
+Always name the failed completion and the parent status left unchanged.
+4.11 historyClosure — History-Domain Closure
+Question
+If the registered claim depends on a historical or whole-history object, is the required physical history domain both correctly identified and accessible enough for the proposed adjudication?
+Requiredness
+Route- and claim-dependent.
+Presumptively required for whole-history claims whose test actually depends on the history integral or equivalent global object.
+Two distinct questions
+Domain identity:
+What history does the mechanism mathematically require?
+Access closure:
+Can the observer or calculation actually obtain that required history, or a mechanism-owned equivalent?
+Do not collapse them.
+Admissible evidence
+The mechanism’s history dependence together with the actual observational or calculational access route.
+DISCHARGED
+The required historical domain is accessible, or a scientifically demonstrated mechanism-owned equivalent closes the same burden.
+VIOLATED
+The proposed history object is inconsistent with the mechanism’s own required domain.
+OPEN
+The correct history burden is real, but the needed information is not presently closed.
+Important
+A required complete future history that is presently inaccessible is OPEN.
+It is not BELOW SENSITIVITY.
+Smaller error bars on a local measurement do not close a missing whole-history object.
+4.12 forwardModel — Mechanism-to-Observable Forward Model
+Question
+Can the mechanism generate a scientifically controlled prediction for the admitted channels at the required scope?
+Requiredness
+Claim-dependent but presumptively required for any case making a prediction-level empirical or computational comparison.
+Admissible evidence
+A controlled analytic calculation, numerical solver, validated simulation, or other scientifically accepted theory-to-observable map.
+DISCHARGED
+A usable and sufficiently controlled forward model exists for the registered inference.
+VIOLATED
+The proposed forward model is shown to be invalid for the registered mechanism or domain.
+OPEN
+The relevant prediction cannot yet be generated reliably enough.
+Result ceiling
+A forward-model failure ordinarily defeats the proposed route or inference.
+It does not automatically show that the parent mechanism is physically false.
+4.13 channelSet — Frozen Adjudication Channel Set
+Question
+Is the observable, dataset, calculation, or other adjudication channel set explicitly frozen, physically interpretable, and capable in principle of carrying the registered comparison?
+Requiredness
+Claim-dependent.
+Presumptively required for empirical and channel-based computational adjudication.
+Neighbor distinctions
+channelSet asks:
+What channels define the comparison?
+historyClosure asks:
+Can the required historical object be accessed through them?
+forwardModel asks:
+Can M generate a prediction on them?
+dataAdequacy asks:
+Do we have enough realized evidence on them?
+DISCHARGED
+The channel manifest is frozen and scientifically appropriate in principle to the claim.
+VIOLATED
+The declared channel family cannot carry the proposed comparison even under its own intended interpretation.
+OPEN
+The channel surface is not fixed or available strongly enough.
+If VIOLATED
+The empirical route fails.
+That does not automatically mean the parent mechanism fails.
+4.14 fittedComparator — Reference / Fitted Comparator Family
+Question
+Has the strongest scientifically admissible reference family, including all allowed fitted, nuisance, microphysical, boundary, and calibration freedom relevant to the claim, been frozen?
+Requiredness
+Required for claims whose inference depends on comparison against a reference family.
+Why the human label matters
+fittedComparator does not mean “one fitted scalar.”
+The comparator can be a full model family with substantial scientifically justified freedom.
+DISCHARGED
+The comparator family and its allowed fitting/profiling freedom are frozen and scientifically adequate for the declared scope.
+VIOLATED
+The comparator is artificially weak, physically inadmissible, or omits allowed freedom material to the conclusion.
+OPEN
+Comparator adequacy remains unsettled.
+Scoped-strength firewall
+“Strongest admissible comparator” means the strongest scientifically admissible comparator under the registered scientific admission rule.
+It does not require exclusion of every logically imaginable future theory.
+4.15 matchedUnprotectedComparator — Matched Unprotected Comparator
+Question
+For an empirical-protection claim, is there a concrete unprotected comparator that predicts a distinguishable response under the same physical update?
+Requiredness
+Claim-dependent.
+Central for empirical-protection claims.
+Not automatically required for a pure deviation / mechanism-identification claim.
+Why this seat exists
+A null result supports empirical protection only if an unprotected alternative would have produced a visible response.
+DISCHARGED
+A scientifically justified unprotected comparator is frozen under the same relevant update and predicts the response whose absence would bear on the protection claim.
+VIOLATED
+The proposed unprotected comparator is scientifically invalid or does not actually predict the required distinguishable response.
+OPEN
+The comparator or its prediction remains insufficiently specified.
+Null-result firewall
+* “Nothing happened”
+plus
+* “the unprotected response could not have been seen”
+does not establish empirical protection.
+4.16 alternativeCoverage — Serious Alternative Coverage
+Question
+Has the predeclared family of serious signal-mimicking alternatives been covered adequately for the identification scope being claimed?
+Requiredness
+Claim-dependent.
+Required for broad positive mechanism-identification claims.
+May be non-required for a narrow one-way falsifier, bound-only claim, or comparator-relative exact-non-identification statement.
+DISCHARGED
+The registered alternative family is adequate under a scientifically justified coverage rule for the stated scope.
+VIOLATED
+A known serious mimic relevant to the declared scope was omitted or mishandled.
+OPEN
+Coverage adequacy remains unresolved.
+Coverage ceiling
+DISCHARGED does not mean every possible future alternative has been excluded.
+It means the predeclared scientifically justified alternative family is adequate for the exact identification claim being made.
+4.17 mappability — Exact Absorption / Mappability Audit
+Question
+Can M’s prediction be represented exactly inside the admitted comparator family over the frozen channels?
+Requiredness
+Required when exact absorption matters to the identification or non-identification claim.
+Seat species
+This is an AUDIT / PROCEDURE seat.
+Its disposition records whether the exact-mapping question was validly adjudicated.
+It does not encode which answer the audit returned.
+DISCHARGED
+The exact-mappability question was validly and adequately completed.
+Possible ADJUDICATION OUTCOMES include:
+* exact mapping established;
+* exact mapping excluded.
+Both are DISCHARGED audits.
+VIOLATED
+The registered mappability procedure itself is invalid, non-diagnostic, or incapable of answering the frozen question.
+OPEN
+The exact-mapping question remains incomplete or unresolved.
+Critical firewall
+Do not encode:
+“mapping failed”
+as:
+mappability = VIOLATED
+A valid proof that exact mapping does not exist is a successfully DISCHARGED mappability audit with outcome:
+exact mapping excluded.
+4.18 degeneracyTest — Full Comparator / Degeneracy Test
+Question
+After the complete admitted comparator freedom is profiled over the frozen channel set, what relation remains between M and the comparator?
+Requiredness
+Required for the relevant identification and exact-non-identification routes.
+Seat species
+This is also an AUDIT / PROCEDURE seat.
+DISCHARGED
+The full comparator / degeneracy question has been validly adjudicated.
+Possible ADJUDICATION OUTCOMES include:
+* exact degeneracy;
+* non-exact but substantial degeneracy;
+* a surviving nonzero residual.
+All are compatible with a DISCHARGED procedure seat.
+VIOLATED
+The profiling, fitting, statistic, or registered comparison procedure is itself invalid or non-diagnostic.
+OPEN
+The full comparison has not been completed strongly enough.
+Neighbor distinction
+mappability asks whether an exact analytic or constructive representation exists.
+degeneracyTest asks the broader full-channel comparison under all admitted comparator freedom.
+One calculation may sometimes supply evidence for both.
+The record must state separately which proposition it supports for each seat.
+4.19 sensitivity — Reach
+Question
+After exact degeneracy has been excluded and a nonzero residual survives, can the registered observation or calculation resolve that residual at the frozen criterion?
+Requiredness
+Usually:
+CONDITIONAL (exact absorption excluded AND nonzero comparator residual survives)
+Prerequisite order
+Sensitivity is downstream of identifiability.
+Do not use it to rescue:
+* exact non-identifiability;
+* an incomplete mappability audit;
+* an incomplete degeneracy analysis;
+* an inaccessible channel;
+* an OPEN history object.
+DISCHARGED
+The forecast or achieved reach is sufficient for the registered surviving residual.
+VIOLATED
+The nonzero residual lies below the registered reach.
+This is the scientific basis for a BELOW SENSITIVITY result when all other required burdens are closed.
+OPEN
+Reach remains unresolved.
+Result ceiling
+Sensitivity VIOLATED does not mean:
+* NOT IDENTIFIABLE;
+* mechanism FAIL;
+* or comparator equivalence.
+Better precision can reopen a below-sensitivity case.
+Better precision alone cannot reopen exact degeneracy on the same channels.
+4.20 dataAdequacy — Evidence Adequacy
+Question
+Does the actual evidence package have enough quantity, quality, coverage, and information content to support the frozen inference?
+Requiredness
+Claim-dependent.
+Presumptively required for an empirical execution.
+May be non-required for a purely structural or analytic branch with no data-dependent terminal inference.
+Neighbor distinction
+sensitivity asks whether the experiment can resolve the physical residual.
+dataAdequacy asks whether the realized evidence package is sufficient.
+A design can have enough nominal sensitivity but still produce inadequate data.
+A large dataset can be adequate while the physical residual remains below sensitivity.
+DISCHARGED
+The achieved evidence meets the frozen adequacy criteria.
+VIOLATED
+The actual evidence demonstrably fails the registered adequacy standard.
+OPEN
+Adequacy has not yet been established.
+Possible semantic consequence
+Where the case is otherwise admitted and live, a data-adequacy failure may support:
+unresolved(insufficientData)
+It does not imply mechanism FAIL.
+Forecast firewall
+A planned dataset that would have been adequate does not make the achieved dataset adequate if the actual execution failed the frozen criteria.
+4.21 dataConsistency — Evidence Consistency
+Question
+Can the evidence components, calibrations, reconstructed quantities, and theory assumptions used together in the inference be combined consistently under the frozen analysis?
+Requiredness
+Claim-dependent.
+Required where a material multi-source, multi-calibration, or cross-assumption consistency burden exists.
+Neighbor distinction
+dataAdequacy asks:
+Do we have enough usable evidence?
+dataConsistency asks:
+Can the evidence we have be lawfully combined?
+DISCHARGED
+The evidence components used in the final inference are mutually compatible under the registered assumptions and combination rule.
+VIOLATED
+A material inconsistency defeats the registered combined inference.
+OPEN
+Consistency remains unresolved.
+Result ceiling
+Data inconsistency ordinarily defeats the combined analysis.
+It does not automatically establish:
+* mechanism failure;
+* comparator success;
+* or physical inconsistency in nature.
+The lawful response may be to split the analysis, repair calibration, narrow the claim, or run a newly frozen execution.
+4.22 resultFreeze — Execution Integrity / Freeze
+Question
+Was the scientific question and its decision architecture frozen strongly enough before target-result access, and did the released execution remain inside that frozen rule or a predeclared lawful branch?
+Requiredness
+Presumptively required for confirmatory empirical or computational adjudication.
+Pre-execution meaning
+Before target-result access, the versioned freeze should contain, as applicable:
+* mechanism identity;
+* claim profile;
+* empirical adjudication type;
+* Πₘ;
+* source object;
+* theory data;
+* free-data rules;
+* successor definition;
+* ΔXₛ;
+* scale/state bridge;
+* forward-model class;
+* comparator family;
+* alternative family;
+* channel set;
+* exact-absorption rule;
+* sensitivity criterion;
+* data selection and quality rules;
+* uncertainty treatment;
+* result rule;
+* conditional-requiredness triggers;
+* permitted adaptive or branching rules.
+Pre-execution DISCHARGED
+The required preregistration / freeze record exists and is sufficiently complete to constrain execution.
+Post-execution re-audit
+The seat remains DISCHARGED only if the released execution followed:
+* the frozen rule; or
+* a predeclared lawful adaptive branch.
+OPEN
+The freeze record is incomplete, unavailable, or cannot be verified strongly enough.
+VIOLATED
+A material unregistered change after target-result access altered the claim, evidence selection, comparator, channel set, analysis rule, decision threshold, conditional trigger, or interpretation.
+Not every version change is a violation
+Lawful changes include:
+* predeclared adaptive choices;
+* branch choices already encoded in the freeze;
+* changes made before target-result access;
+* transparent non-substantive correction;
+* or creation of a new separately frozen execution.
+What is prohibited is presenting a target-result-driven substantive change as though it belonged to the original confirmatory execution.
+Conditional-requiredness firewall
+Executing a conditional trigger that was frozen in advance is not a resultFreeze violation.
+Changing that trigger after seeing the target result is.
+The twenty-two seats now define the full human-facing Sₘ burden surface.
+They do not predetermine the result.
+They determine which scientific questions must be answered before a particular result is licensed, which questions may remain legitimately outside the claim, and where a proposed inference must stop when a burden is OPEN, VIOLATED, non-identifying, or below reach.
+5. Running a Case
+The scientific registration comes first.
+The adapter is populated only after the mechanism, claim, update, requiredness rules, comparison architecture, and result rule are sufficiently fixed.
+A useful execution sequence is:
+register
+→ route
+→ admit
+→ establish applicability
+→ declare Sₘ requiredness
+→ close support burdens
+→ adjudicate comparator structure
+→ execute where lawful
+→ populate terminal semantics
+→ run machine licenses
+→ report the narrowest result
+Do not skip forward merely because the expected result appears obvious.
+5.1 Step 0 — Identify the execution and phase
+Assign the case and execution identifiers before machine population.
+Record:
+* CASE IDENTIFIER
+* EXECUTION IDENTIFIER
+* MECHANISM / MODEL VERSION
+* SCIENTIFIC REGISTRATION VERSION
+* REQUIREDNESS FREEZE VERSION
+* CASE PHASE
+Case phase is one of:
+* planned;
+* in execution;
+* completed / adjudicated.
+A later machine snapshot does not erase the earlier scientific record.
+Where a conditional-requiredness trigger resolves during execution, preserve the earlier snapshot and the frozen trigger that authorized the later branch.
+5.2 Step 1 — Freeze the scientific case
+Complete the scientific registration in Section 2 before target-result access and bind it to the execution identity.
+Do not restate the registration differently at machine-population time. The mechanism, claim profile, adjudication type, update class, Πₘ, theory data, free-data rules, source object, successor variation where applicable, inheritance maps, bridge, route, channels, comparator architecture, decision rules, and conditional-requiredness triggers remain those of the frozen record.
+If a required scientific object is not yet known, record it honestly as unresolved. Do not invent it merely to make the case machine-populable.
+5.3 Step 2 — Populate top-level routing
+Build the CasePacket.
+Populate:
+claim
+with the registered ClaimProfile.
+Populate:
+update
+with the registered UpdateClass.
+Then populate the raw statuses for:
+descriptionProtection
+successorLineage
+successorBaselineProtection
+as scientifically appropriate.
+The top-level routing record should answer three distinct questions:
+DESCRIPTION PROTECTION
+Did the registered protection survive the declared R₁ or R₂ description challenge?
+SUCCESSOR LINEAGE
+Is the later physical state genuinely the successor whose continuity is being claimed?
+SUCCESSOR-BASELINE PROTECTION
+Where that claim is live, did the relevant protected baseline survive in the genuine successor?
+Do not infer one result from another merely because they occur in the same mechanism.
+5.4 Step 3 — Run the scientific admission gate
+Before empirical execution, determine whether the case is sufficiently specified to be admitted.
+Check whether any admission blocker remains:
+sourceOpen
+shiftOpen
+bridgeOpen
+protectedFunctionalOpen
+freeDatumLedgerOpen
+If one applies, populate:
+notAdmitted(reason)
+and stop the downstream execution branch.
+NOT ADMITTED is not a mechanism FAIL.
+It means the case has not yet supplied enough scientific structure to execute the proposed adjudication.
+The correct next action is to close the missing scientific object, not to force a terminal result.
+5.5 Step 4 — Establish applicability and early stopping conditions
+For an admitted case, determine the ApplicabilityState.
+If notLive
+The registered mechanism makes no relevant claim at that branch.
+Stop.
+Do not call the absence of a claim a failure.
+If outOfDomain
+The proposed laboratory lies outside the mechanism’s declared validity domain.
+Stop that route.
+A different laboratory or scope may define a new case.
+If an exact non-identifiability result is already independently established
+A case may enter:
+notIdentifiable
+without empirical execution where a valid pre-existing analytic or constructive result has already closed the exact comparator question at the registered scope.
+This must not be assumed merely because the mechanism looks similar to a reference model.
+The exact-mapping and degeneracy support must still be independently established.
+Otherwise
+Populate:
+live
+and continue.
+5.6 Step 5 — Choose the Sₘ route and freeze requiredness
+For a live physical-successor case, choose:
+epochLocal
+historicalProtectedTransition
+or:
+wholeHistory
+from the mechanism’s physics.
+Then create the twenty-two-seat human requiredness manifest.
+For each burden assign:
+* ALWAYS
+* CONDITIONAL(trigger)
+or:
+* NOT REQUIRED
+The first eight are ALWAYS.
+For burdens 9–22, the choice follows from:
+* the registered mechanism;
+* Sₘ route;
+* empirical adjudication type;
+* comparator architecture;
+* completion status;
+* history dependence;
+* and frozen branch rules.
+Every NOT REQUIRED entry must have a scientific rationale.
+Every CONDITIONAL entry must have a trigger frozen before target-result access.
+5.7 Step 6 — Populate the core successor burdens
+Populate all eight constitutive Sₘ burdens defined in Sections 3.20 and 4.1–4.8.
+Each must appear as some .discharged, some .violated, or some .open; never none.
+A VIOLATED core burden can already block or narrow the intended inference. Stop at the earliest load-bearing failure when downstream execution would add labels without changing the scientific conclusion.
+5.8 Step 7 — Populate completion, history, and prediction burdens
+Adjudicate as required:
+completionIdentity
+completionViability
+historyClosure
+forwardModel
+These burdens are not universally live.
+A parent-only mechanism test need not manufacture a completion question.
+A local case need not manufacture a whole-history burden.
+A whole-history claim must not hide an inaccessible history as though it were a local measurement problem.
+If a required whole-history object remains unavailable:
+historyClosure = OPEN
+The route remains open there.
+Do not proceed rhetorically to:
+BELOW SENSITIVITY.
+The problem is access to the required object, not insufficient precision.
+5.9 Step 8 — Freeze the comparison manifest
+Before target adjudication, close or honestly leave open the comparison objects required by the claim:
+channelSet
+fittedComparator
+matchedUnprotectedComparator
+alternativeCoverage
+The exact required subset depends on the empirical adjudication type.
+Mechanism-identification claim
+Usually requires:
+* channel set;
+* strongest admitted fitted comparator;
+* serious alternative coverage;
+* exact-absorption audit;
+* full degeneracy audit;
+* sensitivity if a residual survives.
+Empirical-protection claim
+Requires the channel architecture necessary to show that an unprotected response would have been observable.
+That normally includes:
+* a matched unprotected comparator;
+* sufficient reach against its predicted response.
+If the claim also seeks positive mechanism identification, additional fitted-comparator and alternative-coverage burdens become live.
+Bound-only claim
+Requires only the comparison architecture needed for the frozen bound.
+Do not promote a bound into mechanism identification.
+One-way falsification / consistency claim
+May lawfully omit comparison burdens that have no job in the registered falsifier.
+Every omission must still be explicit.
+5.10 Step 9 — Run mappability before sensitivity
+Run the frozen exact-absorption / mappability audit.
+Record separately:
+* PROCEDURE STATUS
+and:
+* ADJUDICATION OUTCOME
+For a valid completed audit:
+mappability = DISCHARGED
+whether the outcome is:
+exact mapping established
+or:
+exact mapping excluded
+Then complete the full comparator / degeneracy audit.
+Again:
+degeneracyTest = DISCHARGED
+means the procedure was adequately completed.
+Its outcome may be:
+* exact degeneracy;
+* a weaker but non-exact degeneracy;
+* a surviving nonzero residual.
+Do not encode the scientific answer by misusing VIOLATED.
+VIOLATED means the audit procedure itself is invalid or non-diagnostic.
+5.11 Step 10A — Exact-degeneracy branch
+If the valid comparison establishes exact degeneracy over the frozen channel set:
+populate the scientific result as:
+NOT IDENTIFIABLE at that declared scope.
+The final branch should carry:
+applicability = notIdentifiable
+rawExecution = notRun
+Sensitivity becomes non-required under the predeclared branch rule:
+sensitivity = none
+The direction is:
+completed exact-absorption / degeneracy audit
+→ scientific exact-non-identification adjudication
+→ notIdentifiable
+→ sensitivity non-required
+Never reverse that sequence.
+The machine can later check:
+ExactNonIdentificationCaseLicensed
+and:
+ExactNonIdentificationRoutingConsistent
+A successful exact-non-identification license means that the supplied scoped non-identification result has the encoded prerequisite support.
+It does not mean Lean independently proved the physical mapping.
+5.12 Step 10B — Residual-survives branch
+If the valid comparator analysis excludes exact absorption and a nonzero residual survives, the sensitivity trigger fires.
+The sensitivity seat remains required.
+Now adjudicate:
+sensitivity
+If DISCHARGED
+The registered reach is sufficient for the residual.
+Continue toward the relevant empirical execution.
+If VIOLATED
+The residual exists under the supplied domain adjudication, but the frozen reach is inadequate.
+The candidate endpoint is:
+BELOW SENSITIVITY
+provided every other honestly required burden is closed.
+The machine check is:
+BelowSensitivityCaseLicensed
+If OPEN
+The reach question remains unresolved.
+Stop there.
+Do not report empirical discrimination or below sensitivity until the reach burden itself is adjudicated.
+5.13 Step 11 — Populate data and execution-integrity burdens
+Where the final inference is empirical or otherwise evidence-dependent, adjudicate:
+dataAdequacy
+dataConsistency
+resultFreeze
+Data adequacy
+Ask whether the realized evidence package is sufficient for the frozen inference.
+Data consistency
+Ask whether the evidence components can be lawfully combined under the frozen analysis.
+Result freeze
+Audit both:
+* the pre-result freeze;
+* and the actual completed execution.
+A phase-sensitive seat may have looked DISCHARGED at the planning stage and require re-audit after execution.
+A planned dataset is not the same thing as an adequate achieved dataset.
+A frozen analysis rule is not the same thing as proof that the completed execution followed it.
+5.14 Step 12 — Resolve conditional requiredness
+After an upstream trigger is scientifically adjudicated, update the versioned ledger according to the rule frozen beforehand.
+Trigger unresolved
+Represent the conditional seat as:
+some .open
+Trigger true
+The seat remains required and is adjudicated:
+DISCHARGED,
+VIOLATED,
+or OPEN.
+Trigger false
+The final seat becomes:
+none
+provided that non-requirement follows from the predeclared trigger.
+Example:
+exact degeneracy established
+→ sensitivity trigger false
+→ sensitivity = none
+This is lawful conditional execution.
+It is not post hoc deletion of an inconvenient burden.
+Preserve the earlier requiredness record so an independent reviewer can see that the branch rule existed before the result.
+5.15 Step 13 — Evaluate positive ledger closure where relevant
+The adapter predicate:
+ExperimentReadyForEmpiricalRun
+asks whether the supplied ledger snapshot has positive closure of every machine-required seat and explicitly declares all eight core successor burdens.
+Use it only for that job.
+Do not report:
+“the experiment was ready”
+without explaining which sense is meant.
+The predicate does not establish:
+* chronological apparatus readiness;
+* successful acquisition;
+* empirical success;
+* scientific truth;
+* adequacy of the requiredness choices;
+* or validity of the underlying evidence.
+For a completed case, treat the predicate as:
+the supplied required-seat ledger has positive machine closure at this versioned snapshot.
+5.16 Step 14 — Populate raw execution
+Only an:
+ADMITTED + LIVE
+case is eligible for a normal execution result.
+Populate:
+rawExecution
+from the scientific adjudication.
+Possible states are:
+notRun
+pass
+fail
+or:
+unresolved(reason)
+Do not choose PASS merely because the mechanism is compatible with the data.
+PASS must mean the predeclared claim-specific result rule was actually satisfied.
+Do not choose FAIL merely because one supporting route remains OPEN.
+FAIL is a positive negative adjudication, not a synonym for incomplete.
+5.17 Step 15 — Complete the SemanticPacket
+Populate the SemanticPacket from the domain adjudication: admission, applicability, raw execution, result / evidence provenance, protection non-vacuity, channel relation, and evidence dependence.
+Then run the human coherence audit. Confirm that those terminal fields agree with the scientific registration, comparator and audit outcomes, evidence actually used, and the same case / execution identity.
+A machine constructor accepting the supplied values is not a substitute for this audit.
+5.18 Step 16 — Run the appropriate case-level machine check
+Run only the check corresponding to the scientific endpoint being reported.
+Positive Sₘ structural protection → StructuralProtectionCaseLicensed.
+Positive empirical mechanism discrimination → EmpiricalDiscriminationCaseLicensed.
+Exact comparator non-identification → ExactNonIdentificationCaseLicensed together with ExactNonIdentificationRoutingConsistent.
+Below sensitivity → BelowSensitivityCaseLicensed.
+For OPEN or VIOLATED burdens, do not manufacture a positive license. Report the governing burden and its narrow scientific consequence. For a completion-specific FAIL, also state which independently established parent or parallel result remains unchanged.
+Section 6 gives the interpretation of these checks; Appendix A gives the compact machine-reference map. 
+5.19 Governing-blocker rule
+A case can contain more than one OPEN or VIOLATED burden.
+When that happens, identify the governing blocker:
+the earliest unresolved or violated burden in the registered scientific dependency route that already prevents the claimed inference.
+Then record later blockers as secondary.
+For example:
+GOVERNING BLOCKER
+historyClosure = OPEN
+SECONDARY OPEN BURDENS
+forward model, channels, comparator execution, data.
+Do not summarize that state as:
+“below sensitivity”
+merely because sensitivity also has not been closed.
+This rule is domain-owned.
+The adapter does not impose a universal causal precedence across every possible physical mechanism.
+5.20 Stop when the claim stops
+A lawful execution does not need to continue through every conceivable downstream burden.
+If a decisive scoped result has already been earned, stop at that result.
+Examples:
+* OUT OF DOMAIN stops the laboratory route.
+* NOT IDENTIFIABLE stops the same-channel sensitivity branch.
+* A completion-specific VIOLATED result may close that completion question while leaving the parent result untouched.
+* A one-way falsifier may terminate without completing an unrelated mechanism-identification program.
+* An OPEN whole-history access burden may stop the direct test before downstream empirical execution exists.
+The contract is not a demand to manufacture answers to questions the mechanism does not make live.
+5.21 Report the narrowest licensed claim
+At the end of the execution, write the narrowest scientific sentence actually supported.
+Do not promote:
+structural protection
+→ empirical identification
+local result
+→ global result
+completion result
+→ parent-mechanism result
+bound
+→ mechanism PASS
+compatibility
+→ identification
+measured numerical value
+→ value-selection mechanism
+machine-clean
+→ physics-confirmed
+A narrower accurate result is a successful execution.
+6. Machine Interpretation and Claim Limits
+The CCP machine layer is a conditional consistency and routing instrument.
+It is not an automated cosmologist.
+Its role is strongest when the distinction between:
+scientific premise
+and:
+machine consequence
+is kept explicit.
+The public compression is:
+PHYSICS OWNS THE PREMISES AND SCIENTIFIC ADJUDICATION.
+LEAN CHECKS THE ENCODED CONDITIONAL CONSEQUENCES.
+6.1 What the adapter can check
+Given the supplied machine records, the adapter can check whether:
+* top-level burden liveness follows the registered ClaimProfile and UpdateClass;
+* unresolved routing is prevented from masquerading as a decided result;
+* a live burden has been improperly entered as NOT LIVE;
+* all eight constitutive Sₘ seats have been explicitly declared;
+* an OPEN required seat blocks positive ledger closure;
+* a VIOLATED required seat blocks positive ledger closure;
+* the encoded positive-support prerequisites for a result are satisfied;
+* successor lineage has actually passed before a strong Sₘ case license is issued;
+* structural-protection terminal representations agree at the encoded level;
+* empirical discrimination satisfies the encoded support and packet conditions;
+* exact non-identification satisfies the encoded support and terminal conditions;
+* exact non-identification routes sensitivity to non-required downstream status;
+* a BELOW SENSITIVITY result has sensitivity itself as the violated reach burden while the other honestly required seats are closed;
+* known forbidden machine upgrades are blocked;
+* the built-in fixtures satisfy their encoded theorem statements.
+These are substantive logical checks.
+They are not merely syntax validation.
+6.2 What the adapter does not check
+The adapter does not independently establish whether:
+* the proposed physical source exists;
+* the source has been identified correctly;
+* Πₘ is the scientifically right protected functional;
+* the selected theory really applies in the proposed regime;
+* ΔXₛ occurred;
+* the physical successor has been identified correctly;
+* the EFT calculation is valid;
+* a renormalization prescription is physically adequate;
+* the claimed theory-data inheritance is correct;
+* the comparator is truly the strongest scientifically admissible comparator;
+* the alternative family is scientifically adequate;
+* a forward model is physically faithful;
+* an exact mapping really exists;
+* an exact mapping has really been excluded;
+* a degeneracy calculation is numerically or analytically correct;
+* a surviving residual is physically real;
+* a sensitivity forecast is trustworthy;
+* a dataset is authentic;
+* a calibration is correct;
+* the achieved data meet the scientific adequacy threshold;
+* a citation actually supports the proposition assigned to it;
+* a conditional-requiredness trigger was honestly frozen before target access;
+* two machine records actually describe the same physical system merely because the author gave them the same identifier;
+* a completion is the scientifically correct completion of a parent mechanism;
+* a whole-history proxy really closes the mechanism’s history burden;
+* the scientific conclusion is true of nature.
+Those remain domain-owned burdens.
+6.3 Machine-clean is not physics-confirmed
+A clean Lean execution establishes that the supplied definitions, predicates, records, and theorem consequences are mutually accepted by the formal system at the encoded scope.
+It does not establish that the physical premises used to populate those records are true.
+Therefore:
+machine-clean
+≠
+physics-confirmed
+and:
+case license
+≠
+empirical proof generated by Lean
+A case license should be read as:
+Given this independently populated support record and this domain-supplied scientific adjudication, the CCP contract licenses this result label at the encoded scope.
+That is the intended machine claim.
+6.4 Support predicates are not result predicates
+The adapter deliberately separates: 
+support
+from:
+terminal scientific adjudication
+and from:
+case license
+For example:
+EmpiricalDiscriminationSupportReady
+does not mean:
+“the mechanism has been empirically identified.”
+It means the encoded prerequisite support for such a claim is closed.
+The domain must still supply the scientific discrimination result.
+Then:
+EmpiricalDiscriminationCaseLicensed
+checks that the support and supplied terminal result agree in the way required by the contract.
+This separation prevents the terminal label from generating its own warrant.
+6.5 A supplied semantic label is not its own evidence
+Consider exact non-identification.
+The machine packet may contain:
+applicability = notIdentifiable
+That field is the supplied scientific classification.
+It is not evidence that exact mapping exists.
+The evidence belongs in the human scientific record:
+* frozen comparator;
+* valid mapping procedure;
+* valid degeneracy procedure;
+* audit result;
+* supported proposition;
+* sources or calculations.
+Only after that domain adjudication is supplied does the adapter check the corresponding case license and downstream routing.
+The same rule applies to:
+discriminating
+belowSensitivity
+PASS
+FAIL
+and other terminal labels.
+6.6 Result-to-machine-check map
+For public reporting, use the following correspondence.
+Scientific result:
+Positive Sₘ structural protection
+Machine check:
+StructuralProtectionCaseLicensed
+Meaning:
+The supplied positive structural-protection adjudication has the required encoded lineage, support, top-level result agreement, and SemanticPacket classification.
+Does not mean:
+Lean independently proved the physical protection relation.
+Scientific result:
+Positive empirical mechanism discrimination
+Machine check:
+EmpiricalDiscriminationCaseLicensed
+Meaning:
+The supplied discrimination adjudication has the required encoded successor lineage, comparator, reach, data, freeze, and packet support.
+Does not mean:
+Lean evaluated the physical experiment or independently excluded the alternatives.
+Scientific result:
+Exact comparator non-identification
+Machine checks:
+ExactNonIdentificationCaseLicensed
+and:
+ExactNonIdentificationRoutingConsistent
+Meaning:
+The supplied scoped exact-non-identification adjudication has the required encoded support and its downstream sensitivity routing is consistent.
+Does not mean:
+Lean proved the physical exact mapping.
+Scientific result:
+Below sensitivity
+Machine check:
+BelowSensitivityCaseLicensed
+Meaning:
+The supplied reach-limited result is consistent with closed upstream support and sensitivity itself is the encoded violated reach burden.
+Does not mean:
+Lean established the size of the physical residual.
+Scientific result:
+OPEN
+Machine check:
+No positive result license should be manufactured.
+Report instead:
+the governing OPEN burden and the machine consequence it blocks.
+Scientific result:
+VIOLATED burden / narrow negative result
+Machine treatment:
+Preserve the violated burden and report its scoped consequence.
+Do not infer:
+universal mechanism failure unless the registered scientific dependency actually licenses that conclusion.
+Scientific result:
+Completion-specific FAIL
+Machine / public treatment:
+Report the completion failure at the registered completion scope.
+Also report the independent parent status that remains untouched.
+6.7 Exact non-identifiability has a strict ceiling
+A result licensed as exact non-identification is limited to:
+* the registered mechanism;
+* the frozen comparator;
+* the allowed comparator freedom;
+* the frozen channel set;
+* the declared physical scope.
+It does not establish:
+* universal observational equivalence;
+* equivalence on every future channel;
+* equivalence to every future comparator;
+* mechanism identity;
+* fit-only status;
+* absence of global constraints;
+* absence of risky pre-data predictions.
+A new channel can reopen identifiability at a broader scope without making the earlier channel-relative result false.
+6.8 BELOW SENSITIVITY has a different ceiling
+BELOW SENSITIVITY means:
+* a nonzero residual survives the registered comparator adjudication;
+* the result is not exactly degenerate at that scope;
+* the frozen reach is insufficient.
+It therefore differs fundamentally from NOT IDENTIFIABLE.
+A future improvement in reach can reopen a below-sensitivity case without changing the mechanism, comparator, or channel.
+By contrast, improved precision alone does not break a genuinely exact degeneracy on the same frozen channel.
+6.9 OPEN has a different ceiling again
+OPEN means the required scientific burden is still live and unresolved.
+It may identify exactly what new work is needed.
+Examples:
+historyClosure OPEN
+requires valid access to the required history object or a demonstrated mechanism-owned equivalent.
+forwardModel OPEN
+requires a sufficiently controlled theory-to-observable prediction.
+comparator OPEN
+requires a scientifically adequate frozen comparison family.
+dataAdequacy OPEN
+requires enough realized evidence to evaluate the registered rule.
+OPEN is therefore often informative.
+It tells a specialist what would make the question answerable.
+6.10 Negative results require attribution
+Every negative result should identify the exact failed object.
+Do not publish only:
+“the case failed.”
+Report:
+FAILED / BLOCKING OBJECT
+and:
+PARENT / PARALLEL STATUS NOT CHANGED
+For example:
+FAILED OBJECT
+the registered linear-potential completion at its specified joint cosmological role.
+PARENT STATUS NOT CHANGED
+the independent matter-sector protection result is not erased by that completion-specific failure.
+This attribution rule prevents an aggregate negative state from swallowing surviving scientific results.
+6.11 Never publish aggregate disposition alone
+The CasePacket aggregate disposition is useful for machine routing but scientifically too compressed to stand alone.
+Always publish:
+descriptionProtection: effective status
+successorLineage: effective status
+successorBaselineProtection: effective status
+then:
+aggregate disposition: result
+If aggregate disposition is FAIL, the correct reading is:
+at least one live top-level burden failed.
+Not:
+every claim made by the mechanism failed.
+6.12 Provenance must remain visible
+Where a result is structural, computational, empirical, or supported by more than one mode, publish the provenance.
+Do not convert:
+* structural support
+into:
+* empirical confirmation.
+Do not convert:
+* a controlled computational negative result
+into:
+* an empirical measurement merely because the calculation is physically informative.
+Do not count:
+R₁ PASS
+and:
+R₂ PASS
+as independent confirmation if both rest on the same exact structural identity.
+The evidence-dependence field exists specifically to make that lineage visible.
+6.13 Requiredness remains partly outside machine verification
+The adapter can enforce that the first eight Sₘ seats are never omitted.
+It can also check the status of seats that the operator has represented as required.
+It cannot independently know whether every claim-dependent seat from 9–22 was correctly declared required, conditional, or non-required.
+That judgment comes from the frozen scientific claim.
+Therefore a public case must preserve the human requiredness manifest.
+A machine-clean ledger with an unjustified none can still be scientifically wrong.
+The answer is not to pretend Lean knows the physics.
+The answer is to make the requiredness decision publicly auditable.
+6.14 Conditional requiredness remains auditable
+For every CONDITIONAL burden, preserve:
+* the frozen trigger;
+* its preregistration identity;
+* the upstream event or audit outcome that resolves it;
+* whether the trigger fired;
+* the final machine representation.
+A trigger is invalid if it depends on the desired terminal result.
+Examples of invalid trigger language include:
+* “if needed”
+* “if interesting”
+* “if required for significance”
+* “if the mechanism seems distinguishable”
+A valid trigger names an independently adjudicable upstream condition.
+6.15 Case identity is a public evidence burden
+The machine can take a CasePacket and a SuccessorExperimentCase as arguments to a license predicate.
+It cannot establish from first principles that two supplied records describe the same real scientific execution.
+Therefore public execution must bind the records through one case / execution identity and versioned release package.
+This is an evidentiary and reproducibility burden.
+Adding another machine wrapper would not solve dishonesty in source population.
+6.16 Human coherence remains required
+Before release, compare:
+* human audit outcomes
+against:
+* SemanticPacket terminal labels
+and:
+* top-level routing
+against:
+* Sₘ case state
+Examples of forbidden incoherence include:
+mappability audit outcome:
+exact mapping excluded
+plus degeneracy outcome:
+nonzero residual survives
+but terminal SemanticPacket:
+notIdentifiable
+or:
+top-level successor lineage:
+FAIL
+but a claimed licensed empirical successor result.
+Where the contradiction concerns information intentionally left domain-owned, the correct response is a failed human coherence audit.
+Do not add redundant machine ontology merely to conceal that the domain evidence still matters.
+6.17 Reopening the adapter or Universal Kernel
+Scientific disagreement is not by itself an adapter defect. Reopen the CCP adapter only when a scientifically necessary CCP-specific distinction cannot be represented faithfully by the existing states, burdens, requiredness rules, or human adjudication record and that representational failure changes a lawful route or conclusion.
+Reopen the Universal Kernel only for a genuinely reusable, domain-neutral structural capacity that is scientifically required, absent from the kernel, and not honestly representable in the domain adapter. Cosmological history access, comparator structure, sensitivity, completion viability, value-selection dynamics, and other CCP-specific burdens remain domain-owned unless a stronger reusable defect is demonstrated.
+Section 8 carries the full challenge and reopening protocol.
+6.18 Claim ceiling
+Every completed public execution should end with:
+SCIENTIFIC RESULT
+the narrowest sentence supported by the scientific evidence;
+MACHINE RESULT
+what the clean adapter execution or theorem establishes about the populated record;
+NON-CLAIM / CEILING
+the nearest tempting stronger statement that is not licensed.
+This separation keeps scientific evidence, formal consequence, and interpretive ceiling distinct.
+6.19 Compression
+Given a faithfully populated scientific record, the CCP adapter checks whether the claimed result is supported, licensed, and routed consistently at the encoded scope.
+It does not replace the scientific record, manufacture a physical premise, upgrade compatibility into identification, convert OPEN into FAIL, convert inaccessible history into inadequate sensitivity, erase parent protection because a completion fails, or infer a value-selection mechanism from the existence of a measured value.
+Physics and domain analysis remain responsible for describing and adjudicating the physical claims. The adapter remains responsible for checking the encoded conditional consequences of what has been honestly registered.
+7. Worked Case — Original Global Sequestering
+Original global vacuum-energy sequestering is the package’s worked example because one mechanism family produces several different lawful scientific endpoints.
+The case does not reduce to:
+PASS
+or:
+FAIL
+Instead, it separates:
+A. matter-sector protection across R₁ / R₂;
+B. epoch-local QCD / electroweak non-identification;
+C. global restrictions plus an OPEN direct whole-history test;
+D. failure of one registered linear-potential completion.
+Those results coexist.
+None is permitted to swallow the others.
+The scientific anchor remains authoritative for the physical argument and citations. The adapter fixtures demonstrate how the corresponding Sₘ result states are represented and firewalled in the machine contract.
+7.1 Mechanism and protected relation
+In the original global Kaloper–Padilla construction, global variables and a historic spacetime-volume constraint act on a protected matter sector.
+At the declared matter-sector scope, constant vacuum-energy contributions are removed from the gravitational source by the same global projection under the assumptions of the construction.
+After the protected constant contribution is removed, the local field equation can be written:
+M_Pl² G^μ_ν = τ^μ_ν − ¼ δ^μ_ν ⟨τ^α_α⟩
+with:
+Λ_eff = ¼ ⟨τ^α_α⟩
+The exact index placement and notation follow the scientific anchor.
+For one fixed history admitted by the model, the local equation is therefore GR with:
+* the same local stress-energy history;
+* the same realized local initial and boundary data;
+* and one spacetime-constant effective cosmological term Λₑff.
+A matched GR comparator can choose:
+Λ_fit = Λₑff
+and thereby reproduce observables determined entirely by that same realized local history.
+That local equivalence is central to the Sₘ non-identification result on the declared channels.
+It does not erase the distinct global constraint that restricts which histories the sequestering construction admits.
+7.2 Branch A — R₁ / R₂ matter-sector protection
+Scientific question
+Does the protected matter-sector relation survive:
+* perturbative refinement within the declared protected matter sector; and
+* threshold / EFT changes carried by the same protection mechanism?
+R₁ result
+At the scope tested by the scientific anchor, the matter-loop correction challenge is absorbed by the same global protection relation.
+The registered matter-sector protection therefore survives the R₁ challenge.
+R₂ result
+Constant protected-matter threshold contributions are carried by that same protection relation through the declared EFT / matching challenge.
+The registered matter-sector protection therefore survives the R₂ challenge.
+Evidence-dependence ceiling
+R₁ and R₂ are two different update tests.
+They are not two independent mechanisms of confirmation.
+Both rely on the same underlying protection structure.
+The correct report is therefore:
+two distinct update burdens discharged through shared structural identity
+not:
+two independent confirmations of the mechanism.
+Graviton-loop ceiling
+The result is matter-sector scoped.
+It does not automatically extend to graviton loops.
+Later constructions that enlarge the protected burden must be treated as materially different cases rather than silently imported into the original mechanism.
+Machine locus
+R₁ and R₂ are description-update cases.
+Their machine locus is the top-level CasePacket description-protection route rather than the Sₘ fixture family.
+A lawful machine population must preserve:
+* the registered description-protection claim;
+* the appropriate description update;
+* the domain-supplied PASS / FAIL / UNRESOLVED adjudication;
+* and the evidence-dependence statement that the two successful update tests share structural identity.
+Result ceiling
+The strongest result is:
+The registered matter-sector protection relation survives the R₁ and R₂ challenges tested at the declared scope.
+It does not establish:
+* empirical identification of original global sequestering;
+* protection against arbitrary ultraviolet completion;
+* graviton-loop protection;
+* a numerical derivation of Λ;
+* or a solution to every scientific question grouped under “the cosmological-constant problem.”
+7.3 Branch B — Epoch-local QCD / electroweak non-identification
+This branch asks a different question.
+The protection relation may be genuine.
+Can a real Standard-Model physical successor identify original global sequestering against a matched GR comparator?
+Scientific question
+For a real physical history change in the protected matter sector, does original global sequestering produce an observable response on the registered local-history channels that cannot be reproduced by matched GR?
+Comparator construction
+For one fixed history admitted by the sequestering model, the matched comparator uses:
+* the same local matter history;
+* the same realized local initial data;
+* the same realized local boundary data;
+* and Λ_fit = Λₑff.
+On observables determined entirely by that shared local history, the two descriptions are exactly equivalent under this comparison.
+That is a non-identification result at the declared channel scope.
+It is not a claim that the two theories are globally identical.
+QCD historical successor
+QCD thermodynamics supplies real early-universe transfer structure.
+But the relevant thermodynamic history appears in both matched descriptions.
+Changing from one physical QCD state to another therefore changes the shared local stress-energy history in both theories.
+It does not create a local response unique to original global sequestering on the tested channel.
+The QCD branch ends:
+NOT IDENTIFIABLE on the declared matched channels.
+This is exact degeneracy.
+It is not BELOW SENSITIVITY.
+Electroweak historical successor
+The electroweak branch ends the same way.
+For the measured Higgs mass, the Standard Model thermal history is a crossover rather than the toy bulk first-order transition sometimes invoked in simplified discussions.
+Using the realistic thermodynamic history changes the physical history supplied to both matched descriptions.
+It does not produce an electroweak-local adjustment law unique to original global sequestering.
+The electroweak branch therefore also ends:
+NOT IDENTIFIABLE on the declared matched channels.
+Again:
+exact degeneracy
+≠
+inadequate sensitivity.
+Why this is not fit-only
+The matched local equivalence does not imply that original global sequestering is merely a free fit of Λ.
+Its global equations constrain which full histories are admitted.
+GR with a fitted cosmological constant can reproduce a realized local history after the relevant data are fixed.
+That does not mean unrestricted GR and the sequestering construction admit the same global solution space.
+The scientific distinction is:
+local equivalence after the realized history is fixed
+versus:
+global restriction of which histories are admissible.
+Machine fixture A
+The checked adapter contains:
+epochLocalSequesteringLedger
+epochLocalSequesteringPacket
+epochLocalSequesteringCase
+and:
+epochLocalSequesteringRouting
+The fixture records:
+* route = epochLocal;
+* all eight constitutive successor burdens DISCHARGED;
+* forward model DISCHARGED;
+* channel set DISCHARGED;
+* fitted comparator DISCHARGED;
+* mappability DISCHARGED;
+* degeneracy test DISCHARGED;
+* result freeze DISCHARGED;
+* completion identity not required;
+* admission = admitted;
+* applicability = notIdentifiable;
+* raw execution = notRun;
+* protection = nonvacuous;
+* channel relation = constraintFixedChannelEquivalent;
+* evidence dependence = partially shared.
+Sensitivity is not used as support for this result.
+It is non-required downstream because exact non-identifiability has already been independently adjudicated.
+Machine checkpoints
+The fixture establishes the encoded jobs represented by:
+epoch_local_sequestering_ready_for_registered_support
+epoch_local_sequestering_exact_nonidentification_support_ready
+epoch_local_sequestering_exact_nonidentification_licensed
+epoch_local_sequestering_exact_nonidentification_routing_consistent
+and:
+epoch_local_sequestering_not_empirical_discrimination_licensed
+The meaning is narrow.
+The supplied exact-non-identification adjudication satisfies the encoded support and routing contract.
+The adapter does not independently derive the physical equivalence.
+Result ceiling
+The lawful result is:
+Original global sequestering is not identifiable against the frozen matched-GR comparator on these local-history QCD / electroweak channels.
+Do not promote this into:
+* universal observational equivalence;
+* fit-only status;
+* failure of matter-sector protection;
+* failure of the global construction;
+* or proof that no other observable could distinguish the mechanism.
+A genuinely new channel that probes physical structure not absorbed by the matched comparator can define a new identification case.
+7.4 Branch C — Global restrictions and the OPEN direct historic relation
+Local non-identifiability does not exhaust the original construction.
+Its global constraints remain scientifically restrictive.
+One-way global falsifier
+In the large, old, approximately FRW branch discussed in the scientific anchor, once the relevant boundary terms are subdominant, the condition:
+⟨R⟩ = 0
+requires:
+k = +1
+at that scoped branch.
+A sufficiently supported cosmological result incompatible with positive spatial curvature would therefore falsify that branch.
+The converse is not identifying.
+Observation of positive curvature would be compatible with the branch, but ordinary GR also admits positively curved histories.
+Therefore:
+incompatible curvature
+→ scoped falsification
+but not:
+compatible curvature
+→ mechanism identification
+This is a one-way scientific test.
+It does not need to be inflated into a full mechanism-identification program.
+Direct parent-mechanism relation
+The most direct parent-mechanism test identified by the anchor is the historic relation:
+Λ_eff = ¼ [∫_M d⁴x √−g τ^α_α] / [∫_M d⁴x √−g]
+where M is the complete spacetime history.
+The load-bearing point is not the algebraic form alone.
+The integration domain is the complete history, including future history.
+Direct evaluation therefore requires physical information not presently available.
+Scientific status
+The direct historic-relation test is:
+OPEN
+The governing blocker is:
+historyClosure = OPEN
+The reason is:
+physical access to the required complete-history domain is not presently closed.
+This is not an instrumental-sensitivity claim.
+A more precise measurement of an incomplete history does not supply the missing complete history.
+Additional downstream OPEN burdens
+Because the history object itself remains open, downstream implementation burdens also remain open in the current machine fixture, including:
+* forward model;
+* channel set;
+* unprotected comparator where relevant;
+* alternative coverage;
+* mappability;
+* degeneracy test;
+* sensitivity;
+* data adequacy;
+* data consistency;
+* result freeze.
+These are secondary to the governing history-access blocker in the present route.
+The scientific report should not flatten them into one undifferentiated “not measurable” label.
+Machine fixture B
+The checked adapter contains:
+wholeHistorySequesteringLedger
+wholeHistorySequesteringPacket
+wholeHistorySequesteringCase
+and:
+wholeHistorySequesteringRouting
+The fixture records:
+* route = wholeHistory;
+* all eight constitutive successor burdens DISCHARGED;
+* completion identity = not required;
+* completion viability = not required;
+* history closure = OPEN;
+* forward model = OPEN;
+* channel set = OPEN;
+* fitted comparator = DISCHARGED;
+* matched unprotected comparator, alternative coverage, mappability, degeneracy test, sensitivity, data adequacy, data consistency, and result freeze = OPEN;
+* admission = admitted;
+* applicability = live;
+* raw execution = unresolved channelOpen;
+* protection = nonvacuous;
+* channel relation = channelOpen.
+This is a deliberately live but unresolved parent-mechanism route.
+Machine checkpoints
+The adapter explicitly checks:
+whole_history_history_closure_seat_is_open
+whole_history_forward_model_seat_is_open
+whole_history_current_route_not_ready_for_empirical_run
+and:
+whole_history_channel_open_blocks_empirical_pass
+The adapter firewall suite additionally blocks the fixture from being licensed as: 
+* structural protection;
+* empirical discrimination;
+* exact non-identification;
+* BELOW SENSITIVITY.
+In particular:
+whole_history_case_is_not_below_sensitivity_licensed
+protects the scientific distinction between:
+missing access to the required history
+and:
+a known surviving residual below experimental reach.
+Result ceiling
+The lawful result is:
+The direct historic parent-mechanism relation remains scientifically live but presently OPEN because the required complete spacetime history is not available for direct evaluation.
+Do not report:
+* FAIL;
+* NOT IDENTIFIABLE;
+* BELOW SENSITIVITY;
+* or parent-mechanism confirmation.
+What would close this OPEN burden
+The route can advance if physics supplies either:
+* valid access to the required complete-history object; or
+* a scientifically demonstrated mechanism-owned observable or relation genuinely equivalent to that required historic burden.
+A convenient proxy is not enough merely because it correlates with the desired result.
+The equivalence must itself be demonstrated.
+7.5 Branch D — Linear-potential completion failure
+The completion question is separate from the parent-protection question.
+Scientific question
+Can the original finite-history construction be supplied with a viable completion that both:
+* accounts for the present accelerated epoch in the specified way; and
+* produces the eventual collapse required by the completion?
+Kaloper and Padilla proposed a protected-sector scalar with a linear potential for this role.
+The subsequent analysis cited by the scientific anchor found no observationally compatible solution when the same field is required to perform both jobs.
+Scientific endpoint
+The registered completion therefore fails at its stated joint role.
+That result is:
+completion-specific FAIL
+not:
+parent matter-sector protection FAIL.
+The failed object is the proposed linear-potential completion under the registered joint cosmological burden.
+The independently established matter-sector protection result remains a separate result.
+Machine fixture C
+The checked adapter contains:
+linearPotentialCompletionLedger
+linearPotentialCompletionPacket
+linearPotentialCompletionCase
+and:
+linearPotentialCompletionRouting
+The fixture records:
+* route = wholeHistory;
+* all eight constitutive successor burdens DISCHARGED;
+* completion identity = DISCHARGED;
+* completion viability = VIOLATED;
+* result freeze = DISCHARGED;
+* admission = admitted;
+* applicability = live;
+* raw execution = FAIL;
+* computational provenance = true;
+* empirical provenance = false;
+* protection = nonvacuous.
+The fixture therefore demonstrates why the human companion uses the phrase:
+Result / Evidence Provenance
+for the Lean type PassProvenance.
+A computationally supported negative result still has provenance.
+Machine checkpoints
+The adapter checks:
+linear_potential_completion_viability_is_violated
+linear_potential_completion_not_ready_for_empirical_run
+and:
+linear_potential_completion_fails_without_empirical_pass
+The adapter firewall suite also prevents the failed completion case from being converted into positive licenses for: 
+* structural protection;
+* empirical discrimination;
+* exact non-identification.
+The completion FAIL remains the completion FAIL.
+Parent firewall
+The correct public report contains both:
+FAILED OBJECT
+The registered linear-potential completion fails its specified joint present-acceleration / eventual-collapse role.
+PARENT STATUS NOT CHANGED
+The independently established matter-sector R₁ / R₂ protection result is not erased by that completion-specific failure.
+Different completions are new cases
+A materially different completion cannot be substituted after the fact and described as though it repaired the original execution.
+A different completion is a new scientific case.
+It receives:
+* its own identity;
+* its own claim registration;
+* its own requiredness manifest;
+* its own evidence;
+* and its own result.
+7.6 Why the four endpoints do not conflict
+The four worked branches answer different questions and therefore lawfully end in different states: matter-sector R₁/R₂ protection survives; the tested epoch-local QCD/electroweak channels are NOT IDENTIFIABLE; the direct whole-history parent relation remains OPEN; and the registered linear-potential completion FAILS at its stated role.
+No one of those endpoints licenses rewriting the others. 
+7.7 Result matrix
+R₁ / R₂ matter-sector branch
+Question
+Does the protected matter-sector relation survive the registered description changes?
+Scientific result
+PASS at the tested scope.
+Machine locus
+Top-level description-protection routing.
+Claim ceiling
+Protection only.
+Reopening / pressure
+A valid correction or matching result that defeats the registered protected relation without post hoc retuning.
+Epoch-local QCD / electroweak branch
+Question
+Does the real physical successor distinguish original global sequestering from matched GR on the declared channels?
+Scientific result
+NOT IDENTIFIABLE.
+Machine locus
+Fixture A: epochLocalSequesteringCase.
+Claim ceiling
+Exact comparator-relative non-identification on the tested channels.
+Reopening / extension
+A new scientifically justified channel, comparator relation, or mechanism consequence not exactly absorbed by the matched reference construction.
+Whole-history parent branch
+Question
+Can the direct historic relation be evaluated on the complete spacetime history required by the mechanism?
+Scientific result
+OPEN.
+Governing blocker
+historyClosure.
+Machine locus
+Fixture B: wholeHistorySequesteringCase.
+Claim ceiling
+No positive parent-mechanism adjudication from the direct historic relation at present.
+Reopening / extension
+Valid access to the required history or a mechanism-owned equivalent that closes the same physical burden.
+Linear-potential completion branch
+Question
+Can the registered completion satisfy its stated present-acceleration and eventual-collapse role?
+Scientific result
+FAIL at the completion scope.
+Failed object
+The registered linear-potential completion.
+Machine locus
+Fixture C: linearPotentialCompletionCase.
+Claim ceiling
+Completion viability only.
+Parent status not changed
+Matter-sector protection remains separately established at its tested scope.
+Reopening / extension
+A defect in the negative completion adjudication can overturn that result. A materially different completion defines a new case.
+7.8 Local equivalence does not erase global restriction
+The worked case establishes one distinction worth retaining separately.
+A global mechanism can be scientifically non-vacuous even where a matched local reference theory reproduces the realized local observables.
+For original global sequestering:
+after one admitted history is fixed
+the local equation is reproducible by matched GR with the same realized history and Λ_fit = Λₑff.
+But:
+before the history is fixed
+the global sequestering construction restricts which histories belong to its solution space.
+Therefore:
+local matched equivalence
+does not imply:
+global fit-only construction.
+Likewise:
+global restriction
+does not imply:
+local empirical identification.
+The two claims answer different jobs.
+7.9 Compatibility is not identification
+The global construction can make risky predictions or restrictions.
+A successful observation of one such predicted history can therefore be scientifically meaningful.
+But compatibility with a predicted history does not automatically identify the global constraint if the same realized observables remain available to the admitted comparator.
+The reporting language must preserve the direction:
+incompatible observation may falsify a scoped branch
+while:
+compatible observation may remain non-identifying.
+This asymmetry is lawful.
+7.10 Later sequestering constructions
+Later sequestering formulations materially change parts of the mechanism.
+They should be tested as their own cases.
+Do not import:
+* the manifestly local formulation;
+* the graviton-loop extension;
+* or another later construction
+as though it were evidence that the original global construction itself already contained those properties.
+A later mechanism may answer a burden that the earlier mechanism leaves open.
+That is scientific development.
+It is not retroactive population of the earlier case.
+7.11 Numerical realization remains separate
+Nothing in these four branches derives the observed numerical value of Λ.
+The worked case establishes distinctions among:
+* protection;
+* local identification;
+* global restriction;
+* whole-history testability;
+* completion viability.
+A numerical-realization claim would require a separately registered mechanism whose scientific job is to determine, restrict, statistically account for, or otherwise explain the realized value.
+The existence of Λₑff in the construction does not by itself create that additional result.
+7.12 Worked-case machine ceiling
+The three Sₘ fixtures are demonstrations of the contract surface.
+They do not constitute independent physical evidence for sequestering.
+The domain-supplied scientific adjudications are encoded into those fixtures.
+Lean then checks consequences including:
+* exact-non-identification licensing for Fixture A;
+* OPEN-history blocking for Fixture B;
+* completion-viability failure behavior for Fixture C;
+* and the firewalls preventing one endpoint from being converted into another.
+Therefore:
+Fixture A machine-clean
+≠
+Lean proved local physical equivalence
+Fixture B machine-clean
+≠
+Lean proved the future history is inaccessible
+Fixture C machine-clean
+≠
+Lean independently refuted the linear-potential completion
+The physical basis remains in the scientific sources and adjudication.
+7.13 Scientific stopping point
+The worked case does not end with:
+original global sequestering solves the cosmological-constant problem
+or:
+original global sequestering fails.
+Its actual stopping point is more informative:
+The matter-sector protection relation survives the registered R₁ / R₂ challenges.
+The QCD and electroweak local-history channels do not identify the mechanism against matched GR.
+The global construction retains restrictive and falsifiable content despite that local non-identifiability.
+The cleanest direct parent relation requires whole-history information that is not presently available.
+One explicit linear-potential completion fails its registered joint cosmological role.
+None of those results derives the observed numerical value of Λ.
+That asymmetric result is not a weakness of the contract.
+It is the reason the contract exists.
+8. How to Challenge, Refute, Extend, or Reopen the Package
+This package is intended to be defeasible.
+A skeptical specialist should be able to determine not only how to run a case, but also what evidence would:
+* overturn a result;
+* narrow a claim;
+* extend the tested scope;
+* close an OPEN burden;
+* falsify a scoped branch;
+* activate a previously non-live claim;
+* expose an adapter defect;
+* or place genuine pressure on the Universal Kernel.
+The challenge must identify what is changing.
+A new result is not automatically a refutation.
+A new case is not automatically a repair.
+A representation defect is not automatically a physics defect.
+A physics disagreement is not automatically kernel pressure.
+The package therefore distinguishes eight change types.
+8.1 Public challenge / status-change manifest
+Every substantive challenge or update should record:
+TARGET
+The exact scientific result, burden, case, completion, comparator, machine predicate, adapter definition, or kernel dependency being challenged.
+CHANGE TYPE
+One of the eight classes below.
+HELD FIXED
+The parts of the original case that remain unchanged.
+CHANGED
+The exact premise, object, evidence, route, comparator, channel, calculation, or formal representation being altered.
+EVIDENCE
+The new calculation, observation, derivation, proof, source, or reproducible demonstration supporting the challenge.
+RESULTING ACTION
+What should happen if the challenge is accepted:
+* overturn;
+* narrow;
+* create new case;
+* close OPEN;
+* falsify branch;
+* activate claim;
+* repair adapter;
+* or reopen kernel adjudication.
+This manifest prevents a later result from silently rewriting the identity of an earlier execution.
+8.2 Change Type 1 — OVERTURN / REFUTE
+Use OVERTURN / REFUTE when new evidence shows that an earlier result was wrong under its own original referent, scope, and frozen rules.
+The challenge must preserve enough of the original case that the target remains the same scientific object.
+Examples include:
+* a calculation used to support R₁ is shown to be invalid;
+* the claimed EFT matching result was mathematically or physically wrong;
+* a purported exact comparator mapping is disproved under the same frozen comparator freedom;
+* a supposedly excluded mapping is explicitly constructed;
+* the original data analysis is shown to violate its own frozen decision rule;
+* a completion previously reported viable is shown not to satisfy its registered role;
+* a completion previously reported failed is shown to have been analyzed incorrectly under the same registered model.
+A true overturn changes the status of the earlier result.
+It does not merely introduce a different mechanism, different completion, or different observational channel.
+Overturning a protection result
+To overturn an R₁ or R₂ protection result, show that the registered protected relation does not survive the original challenge under the original allowed theory-data rules.
+A stronger statement is not required.
+The challenger need not solve the cosmological-constant problem.
+They need only defeat the actual protection claim being reported.
+Overturning exact non-identification
+To overturn a scoped exact-non-identification result, show that under the same:
+* mechanism;
+* comparator family;
+* allowed comparator freedom;
+* channel set;
+* physical scope;
+the claimed exact equivalence is false.
+A valid surviving residual is sufficient to overturn exact degeneracy at that scope.
+Whether the residual is experimentally reachable is a separate downstream question.
+Overturning a completion failure
+A completion-specific FAIL may be overturned if the negative result itself is shown incorrect for:
+* the same completion;
+* the same physical role;
+* the same governing assumptions;
+* and the same scientific referent.
+A materially different completion does not overturn the old one.
+It creates a new case.
+8.3 Change Type 2 — NARROW
+Use NARROW when the original result survives, but its justified scope is smaller than previously stated.
+Examples include:
+* protection survives only within a more restricted perturbative order;
+* an EFT bridge is valid only in a reduced scale range;
+* exact non-identification holds only on a subset of the original channels;
+* a comparator result depends on a narrower nuisance or microphysical domain;
+* a completion result applies only to one parameter region;
+* a global falsifier holds only under a narrower cosmological branch.
+Narrowing is not the same as refutation.
+The result remains lawful inside the reduced scope.
+The public correction should identify:
+OLD SCOPE
+NEW SCOPE
+REASON FOR NARROWING
+STATUS INSIDE NEW SCOPE
+STATUS OUTSIDE NEW SCOPE
+Outside the surviving scope, the result may become OPEN rather than FAIL.
+Do not invent a stronger negative endpoint unless the evidence supports it.
+8.4 Change Type 3 — EXTEND / NEW CASE
+Use EXTEND / NEW CASE when the new work changes the scientific referent enough that it is no longer the same execution.
+Common triggers include:
+* a new mechanism;
+* a materially changed mechanism;
+* a new completion;
+* a new comparator family;
+* a new physical successor;
+* a new observable family;
+* a new channel set;
+* a new physical domain;
+* a new update class;
+* a new numerical-realization claim;
+* a broader claimed identification scope;
+* a new theory-data inheritance rule.
+The new case should receive:
+* a new case identity;
+* a new scientific registration;
+* a new requiredness manifest;
+* a new evidence record;
+* and a new machine population.
+The earlier result remains attached to the earlier referent.
+New channel after exact non-identification
+Suppose a mechanism was exactly non-identifiable on channels C₁.
+A new observable C₂ may probe structure not absorbed by the old comparator.
+That does not make the old result false.
+The correct statement is:
+original result
+NOT IDENTIFIABLE on C₁.
+new case
+identification status on C₁ ∪ C₂ to be adjudicated.
+A broader new case may eventually discriminate the mechanism while the old channel-relative result remains true.
+New completion after completion failure
+If completion A fails and completion B is proposed, B is a new case.
+Do not write:
+“the previous failure was repaired”
+unless the scientific claim is specifically about revision of the same completion identity.
+Ordinarily:
+completion A FAIL
+and:
+completion B OPEN / PASS / FAIL
+are separate results.
+8.5 Same-scope comparator defect versus genuinely new comparator
+A new comparator deserves special care.
+Most newly introduced comparators define an extension or new case.
+But there is one important exception.
+A newly noticed comparator may expose a defect in the original same-scope adjudication if:
+* it was already admissible under the original frozen comparator-admission rule;
+* it addressed the same registered claim;
+* it belonged to the scope the original analysis claimed to cover;
+* and it should therefore have been included in the original comparator family.
+In that case the challenge may be an OVERTURN or NARROW, not merely a new extension.
+The central question is:
+Was this comparator outside the original case, or was it an omitted member of the original case’s own declared comparison class?
+The answer must be justified from the original freeze.
+Do not decide after seeing which classification is rhetorically more convenient.
+8.6 Change Type 4 — CLOSE OPEN
+Use CLOSE OPEN when a previously unresolved burden obtains sufficient evidence for adjudication.
+This is one of the most important scientific uses of the package.
+OPEN is a live research target.
+Examples
+sourceOpen
+may close when the physical source object is independently identified.
+bridgeOpen
+may close when a controlled theory-owned scale/state bridge is derived.
+historyClosure = OPEN
+may close when valid access to the required history object becomes available.
+forwardModel = OPEN
+may close when a controlled predictive calculation is completed.
+channelSet = OPEN
+may close when an admissible measurement or calculation surface becomes available.
+sensitivity = OPEN
+may close when the experimental design and uncertainty budget become sufficiently determined.
+dataAdequacy = OPEN
+may close after acquisition supplies enough valid evidence.
+Closing OPEN is not automatically PASS
+When a burden closes, it can become:
+DISCHARGED
+or:
+VIOLATED.
+Likewise, closing a top-level unresolved burden can lead to:
+PASS
+or:
+FAIL.
+The phrase:
+“we closed the open question”
+means:
+“the question is now adjudicable.”
+It does not mean:
+“the desired answer won.”
+Whole-history example
+For the original global sequestering direct historic relation, closing historyClosure requires evidence that genuinely supplies the physical object the mechanism needs.
+Possible routes include:
+* actual access to the required complete-history information;
+* or a scientifically demonstrated mechanism-owned equivalent that carries the same burden.
+A local observable that merely correlates with the desired historic result does not automatically close the burden.
+The equivalence itself must be established.
+8.7 Change Type 5 — FALSIFY SCOPED BRANCH
+Use FALSIFY SCOPED BRANCH when a predeclared one-way prediction is contradicted.
+This is narrower than whole-mechanism refutation unless the scientific dependency explicitly makes the branch foundational to the parent claim.
+For original global sequestering, the large, old, approximately FRW branch supplies the example.
+Under the assumptions stated in the anchor:
+⟨R⟩ = 0
+requires:
+k = +1
+A sufficiently supported result incompatible with positive curvature would falsify that scoped branch.
+The lawful conclusion is:
+registered branch falsified.
+Do not automatically promote that into:
+every form of sequestering falsified
+or:
+every matter-sector protection result erased.
+Compatibility is asymmetric
+If the observation instead returns a value compatible with the branch, the result need not identify the mechanism.
+A one-way falsifier can therefore have asymmetric endpoints:
+incompatible result
+→ branch falsified
+compatible result
+→ branch survives this falsifier but may remain non-identifying
+This asymmetry is not a defect.
+It is common scientific logic.
+8.8 Change Type 6 — ACTIVATE NEWLY LIVE CLAIM
+Use ACTIVATE NEWLY LIVE CLAIM when a theory or scientific source begins making a claim that the earlier case did not make.
+This is especially important for numerical realization.
+Suppose the original mechanism merely protects a relation and leaves the realized cosmological term as a free or externally determined datum.
+Numerical realization is then not live.
+If a later version of the theory introduces a rule that claims to:
+* determine Λ;
+* restrict Λ;
+* generate a distribution for Λ;
+* dynamically select Λ;
+* fix Λ through a global constraint;
+* or otherwise account for the realized value;
+then a new scientific burden becomes live.
+Register:
+* the exact value-selection claim;
+* the physical rule;
+* free-data status;
+* prediction, interval, or distribution;
+* comparator;
+* falsifier;
+* result rule;
+* new required burdens.
+Do not retroactively score the earlier mechanism as having failed a claim it never made.
+Likewise, do not retroactively credit it with a numerical-realization result merely because a later extension supplies one.
+8.9 Change Type 7 — ADAPTER REPAIR
+Use ADAPTER REPAIR when the scientific meaning is already clear but the CCP machine representation cannot faithfully encode or route it.
+A valid adapter-repair challenge should identify:
+SCIENTIFIC OBJECT
+What domain-owned scientific state needs representation?
+CURRENT MACHINE SURFACE
+How is it presently encoded?
+DEFECT
+What scientific distinction is lost, conflated, or misrouted?
+CONSEQUENCE
+What false license, false blocker, false equivalence, or unavailable lawful result follows?
+MINIMUM REPAIR
+What is the smallest CCP-specific change that restores faithful representation?
+Examples of legitimate adapter pressure
+* a scientifically required CCP distinction cannot be expressed using the existing states;
+* two scientifically different cases are forced into one machine state and yield materially different legitimate consequences;
+* a positive license can be issued despite a scientifically required blocking state;
+* a scientifically lawful result is impossible to represent without lying about another field;
+* one adapter theorem implies a stronger CCP claim than the scientific anchor permits.
+Examples that are not adapter pressure by themselves
+* a mechanism failed;
+* a burden remains OPEN;
+* a new comparator was discovered;
+* a different completion was proposed;
+* a proof script needs syntactic cleanup;
+* a theorem name is inconvenient;
+* a cold reader wants different prose;
+* the scientific conclusion is unpopular.
+Those belong elsewhere.
+Repair at the lowest sufficient layer
+If the science is correct and the Lean encoding is wrong:
+repair the adapter.
+If the Lean encoding is correct but the companion explains it badly:
+repair the companion.
+If the scientific definition itself is wrong:
+repair the scientific layer.
+Do not modify a higher layer to avoid fixing the lower layer that actually owns the defect.
+8.10 Change Type 8 — KERNEL REOPENING
+Kernel reopening has the highest burden.
+The Universal Kernel should not change merely because a new domain case is difficult.
+A valid reopening requires a demonstrated reusable structural capacity that:
+* is genuinely required;
+* is not CCP-specific;
+* is not merely physics-owned content;
+* cannot be represented faithfully in the domain adapter;
+* is absent from the current kernel;
+* and has a plausible domain-neutral job beyond this one cosmological application.
+A challenge should identify at minimum:
+MISSING CAPACITY
+What reusable structural job is absent?
+CURRENT NEAREST KERNEL STRUCTURE
+Why can the existing structure not absorb it?
+FAILURE IF ABSENT
+What lawful inference becomes impossible or falsely represented?
+DOMAIN-NEUTRALITY
+Why is this not merely cosmological or CCP-specific?
+CROSS-DOMAIN USE
+Where else would the capacity perform the same job?
+What does not justify kernel reopening
+The following remain domain-owned unless a stronger reusable structural defect is demonstrated:
+* cosmological history access;
+* EFT validity;
+* physical source identity;
+* comparator choice;
+* mappability;
+* experimental sensitivity;
+* data adequacy;
+* completion viability;
+* value-selection dynamics;
+* numerical Λ prediction;
+* mechanism-specific successor physics.
+An important domain burden does not become universal merely because the answer matters.
+8.11 Within-case challenge surfaces
+A critic may challenge the case without changing its scientific referent.
+Requiredness and triggers
+Challenge a seat marked NOT REQUIRED if the frozen claim actually depended on it, or challenge a required seat that has no job in the registered claim. A CONDITIONAL trigger must have been frozen before target-result access, be resolved by an independently adjudicable upstream condition, and remain independent of the desired terminal label. A hidden required burden can invalidate an execution; a spurious required burden can overconstrain it.
+Procedure versus outcome
+For mappability and degeneracyTest, distinguish the audit procedure from what the valid audit found. An invalid or non-diagnostic procedure can become VIOLATED or OPEN. A valid procedure with a wrongly reported outcome requires correction of the adjudication and any downstream SemanticPacket state; it does not make the completed procedure itself a violation.
+Evidence, provenance, and case binding
+Challenge whether each cited source supports the assigned proposition at the stated scope, whether evidence modes are described correctly, whether one structural identity is being double-counted as independent evidence, whether a terminal label is being recycled as its own prerequisite, and whether all released records genuinely bind to the same execution. A material defect reopens the affected burden or public machine claim even if the Lean file still compiles.
+Aggregate status, governing blocker, and terminal coherence
+Inspect the component burden vector rather than attacking or defending only the aggregate disposition. The governing blocker is the earliest unresolved or violated burden in the registered scientific dependency route that already prevents the requested inference; later blockers remain secondary. Human audit outcomes, top-level routing, and SemanticPacket terminal labels must describe one coherent case. Repair any contradiction at the lowest sufficient layer.
+8.12 Result-specific challenge shortcuts
+Protection PASS
+Attack the registered protection job under the original frozen update and lawful theory-data rules. Empirical non-identification, a failed completion, or a different value-selection proposal does not by itself overturn protection.
+Exact non-identification
+Show that exact comparator equivalence is false under the same frozen mechanism, comparator freedom, channels, and scope, or show that the original comparator audit was defective. A genuinely new channel normally defines an extension rather than refuting the old channel-relative result.
+BELOW SENSITIVITY
+Show that the original reach adjudication was wrong, that the residual is actually zero under the admitted comparator freedom, or that an upstream required burden was never closed. Improved reach ordinarily defines a new execution while leaving the earlier reach-limited result historically intact.
+Completion-specific FAIL
+Show that the same registered completion was misidentified, solved incorrectly, constrained incorrectly, or actually satisfies its original role under the original lawful freedom. A materially different completion is a new case.
+Whole-history OPEN
+Close the history burden itself: provide valid access to the required complete-history object, a demonstrably equivalent mechanism-owned relation, or a correction showing that the original claim did not require that history object as stated. Better precision on ordinary local observables does not close missing whole-history access.
+Not refutations by themselves
+Preference for a different mechanism, discovery of a new completion or channel, an OPEN burden, failure to derive a numerical value where no such claim was live, an untriggered scoped falsifier, proof-engineering cleanup, or the fact that machine-clean is not empirical confirmation does not refute the package. A refutation must reach an actual registered claim, dependency, or formal implication.
+8.13 What would count as a strong framework-level challenge
+The framework itself comes under stronger pressure if a specialist can exhibit a scientifically legitimate cosmological-constant case in which:
+* the mechanism’s actual claim cannot be represented without distortion;
+* the claim requires a burden that the framework cannot express;
+* two scientifically distinct result states are forced into one state and that conflation changes the scientific conclusion;
+* the framework necessarily requires irrelevant burdens and thereby makes a lawful claim impossible;
+* the framework necessarily omits a burden required to distinguish a valid result from an invalid one;
+* its claim-relative routing produces a false scientific implication;
+* or its separation among protection, identification, completion viability, numerical realization, and physical access fails on a concrete case.
+That would be substantive pressure.
+The appropriate response would be to locate the defect and repair the lowest sufficient authority.
+The framework is not protected from that possibility by construction.
+8.14 Adversarial quick-reference matrix
+Target: R₁ / R₂ protection PASS
+To overturn:
+Show the registered protected relation fails the original update challenge under the lawful frozen theory-data rules.
+Does not overturn:
+Local empirical non-identification.
+Target: Exact non-identification
+To overturn:
+Show exact comparator equivalence is false under the same frozen scope.
+To extend:
+Introduce a genuinely new channel or broader comparator question.
+Does not overturn:
+Better precision on the same exactly degenerate channel.
+Target: BELOW SENSITIVITY
+To overturn:
+Show the reach adjudication was wrong, the residual was actually zero, or an upstream burden was not closed.
+To extend:
+Run a higher-reach execution.
+Does not imply:
+Exact degeneracy.
+Target: Whole-history OPEN
+To close:
+Supply the required history object or a scientifically demonstrated mechanism-owned equivalent.
+Does not close:
+Ordinary improvement in local measurement precision.
+Target: Completion-specific FAIL
+To overturn:
+Show the same completion satisfies its original registered role or that the negative adjudication was invalid.
+To extend:
+Test a materially different completion.
+Does not erase:
+Independent parent protection merely by failing.
+Target: Scoped one-way falsifier
+To falsify branch:
+Observe the predeclared incompatible state under the required assumptions.
+Compatible outcome means:
+The branch survives this test.
+Compatible outcome does not mean:
+Mechanism identified.
+Target: Numerical realization NOT LIVE
+To activate:
+Supply an explicit physical value-selection / restriction / statistical-accounting claim.
+Does not activate:
+The mere existence of a measured numerical value.
+Target: Adapter
+To repair:
+Demonstrate a real CCP-specific representation or routing defect.
+Does not justify repair:
+A difficult or negative scientific result.
+Target: Universal Kernel
+To reopen:
+Demonstrate an unabsorbed, reusable, domain-neutral structural capacity required beyond CCP.
+Does not reopen:
+A cosmology-specific scientific burden.
+8.15 The package should make disagreement productive
+A useful adversarial response should end with one of a small number of concrete outcomes:
+The earlier result stands.
+The earlier result is overturned.
+The earlier result survives but is narrowed.
+The earlier result stands and the new work is a broader case.
+An OPEN burden is now closed.
+A scoped branch is falsified.
+A previously non-live claim is now activated.
+The public record is incoherent and requires repair.
+The CCP adapter is insufficient and requires repair.
+The Universal Kernel is under demonstrated reusable pressure.
+That is preferable to generic disagreement.
+The package is designed so that a critic can say not merely:
+“this is wrong,”
+but:
+which object is wrong, what evidence defeats it, what stays fixed, and what status should change.
+8.16 Compression
+The adversarial rule is:
+Challenge the smallest object that the evidence actually reaches.
+New evidence should overturn an old result only when it defeats the old result under its own referent.
+A broader question normally creates a broader case.
+A failed completion does not erase parent protection.
+A newly accessible history can close OPEN without guaranteeing PASS.
+A new value-selection mechanism activates a new claim rather than retroactively creating one.
+An adapter defect belongs to the adapter.
+A reusable domain-neutral structural defect may place pressure on the kernel.
+Repair at the lowest sufficient authority.
+Nothing in the package is made immune to challenge by being machine-clean.
+9. Public Execution Release Manifest
+A completed internal adjudication is not yet a reproducible public result.
+A public execution must release enough information for an independent group to reconstruct the scientific case, see how the evidence populated the contract, reproduce the machine population, identify any departures from the frozen protocol, and understand exactly what the resulting claim does and does not establish.
+This section therefore defines the minimum public release manifest for an execution of the CCP contract.
+It is not another scientific registration form. It does not repeat the 22-burden dictionary. It does not replace the operating procedure or the machine-interpretation rules. Those objects already exist earlier in this companion.
+Its job is narrower:
+bind the scientific registration, evidence record, machine population, analysis artifacts, and released claim to one auditable execution.
+A release should contain the seven release blocks below, followed by the final human coherence attestation.
+9.1 Identity
+Every public execution begins by identifying exactly what was run and what scientific case it belongs to.
+Record:
+PACKAGE / RELEASE IDENTITY
+The public package or release to which this execution belongs.
+CASE IDENTIFIER
+A stable human-readable identifier for the scientific case.
+EXECUTION IDENTIFIER
+The identifier for this particular run, adjudication, or released execution.
+A single scientific case may have more than one execution. Do not rely on the case identifier alone when later data, calculations, protocol revisions, or adjudications create a distinct execution.
+MECHANISM / MODEL IDENTIFIER
+The exact mechanism, theory, construction, branch, or completion under review.
+CASE PHASE
+One of:
+* planned;
+* in execution;
+* completed / adjudicated.
+Case phase is a human scientific record. It must not be inferred from ExperimentReadyForEmpiricalRun.
+That predicate means only that the machine-required seats in the supplied versioned ledger snapshot satisfy the encoded closure condition. It is not by itself a chronological acquisition decision, an empirical result, or a statement of final scientific truth.
+SCIENTIFIC ANCHOR IDENTITY
+Exact title, version, release identifier, or other stable reference for the scientific anchor governing the execution.
+COMPANION IDENTITY
+Exact version or release identity of this companion.
+CCP ADAPTER IDENTITY
+Exact adapter filename / release identity used for the machine execution.
+UNIVERSAL KERNEL IDENTITY
+Exact compatible Universal Kernel filename / release identity used by the adapter.
+SCIENTIFIC REGISTRATION / FREEZE IDENTITY
+The exact preregistration, scientific case record, or protocol freeze governing the execution.
+DATE / RELEASE IDENTIFIER
+Include where needed to distinguish successive executions or public releases.
+Use cryptographic hashes where practical for files whose exact contents matter to reproduction.
+Stable explanatory prose elsewhere in the companion need not hard-code transient development filenames. Exact execution binding belongs here.
+9.2 Frozen Scientific Registration
+Release the complete frozen scientific registration governing the case, or give an exact stable reference to the released record.
+Do not replace that record with a short retrospective summary.
+The registration should bind, where applicable:
+* mechanism and scientific claim identity;
+* declared physical scope and applicability domain;
+* ClaimProfile;
+* empirical adjudication type;
+* UpdateClass;
+* protected functional Πₘ;
+* reference theory data θ₀ or allowed region Θ₀;
+* free-datum ledger;
+* source object;
+* actual physical successor variation ΔXₛ;
+* pre-state, successor state, and physical transition where Sₘ is live;
+* lawful parameter-flow or inheritance maps;
+* scale / state bridge;
+* SuccessorExperimentRoute;
+* frozen channel set;
+* forward-model declaration;
+* comparator family and permitted freedom;
+* serious alternatives where required by the claim;
+* mappability / exact-degeneracy audit rule;
+* sensitivity or reach rule where sensitivity is live;
+* data and reference-data rules;
+* uncertainty and material theory-dependence treatment;
+* and the frozen result rule.
+The public manifest need not restate all of those fields in full if the complete frozen registration is itself released.
+Instead record:
+FROZEN REGISTRATION
+Exact file / record identifier, version, release location, and hash where practical.
+The scientific registration remains upstream of the machine population.
+A later machine state cannot retroactively create the scientific object, comparator, channel, criterion, or evidence rule that was supposed to have been frozen before target-result access.
+9.3 Human Burden / Evidence Manifest
+Where Sₘ is live, release the complete human requiredness and evidence record in addition to the encoded Lean ledger.
+For each of the 22 possible Sₘ burdens, record enough information to reconstruct why the burden was or was not required and how its status was adjudicated.
+Use the requiredness grammar:
+ALWAYS
+The burden is constitutive of every live CCP physical-successor case.
+CONDITIONAL(trigger)
+The burden becomes required if the stated frozen upstream condition is satisfied.
+NOT REQUIRED
+The frozen claim and route do not require the burden.
+The first eight Sₘ burdens are constitutive of every live physical-successor case and therefore cannot be encoded as absent merely because their scientific answer is simple:
+1. realChange
+2. protectedSectorMembership
+3. piRelevantChange
+4. mechanismApplicability
+5. inheritedTheoryData
+6. variationConnection
+7. falsificationConnection
+8. freeDatumStability
+If one of these is scientifically trivial in a particular case, discharge it with an explicit scientific basis. Do not represent triviality as non-requirement.
+For each burden, record as applicable:
+BURDEN
+Exact machine burden name.
+REQUIREDNESS
+ALWAYS / CONDITIONAL(trigger) / NOT REQUIRED.
+STATUS
+Where required:
+* DISCHARGED;
+* VIOLATED;
+* OPEN.
+A genuinely non-required burden may map to none.
+A required unresolved burden is OPEN, not none.
+SCIENTIFIC SOURCE
+The paper, equation, calculation, dataset, simulation, preregistration, measurement, or other admissible source bearing on the burden.
+SUPPORTED PROPOSITION
+The exact scientific proposition that the cited evidence supports.
+Do not let a terminal result label substitute for the independent support that licenses that same result.
+EVIDENTIARY ROLE
+For example: source definition, applicability support, forward-model validation, comparator support, procedure completion, reach determination, data support, or result-freeze evidence.
+SCOPE
+The mechanism version, parameter region, epoch, physical regime, channel set, dataset, approximation, or other limit that travels with the adjudication.
+EVIDENCE PHASE
+Where material:
+* forecast / planned;
+* achieved / observed;
+* post-execution audit.
+Phase-sensitive burdens must be re-audited before a completed public result is released.
+ADJUDICATION OUTCOME
+Where the burden is an audit or procedure seat, record the scientific result returned by the completed procedure separately from the procedure disposition.
+This is especially important for mappability and degeneracyTest.
+For those seats:
+* DISCHARGED means the frozen audit was validly completed;
+* VIOLATED means the registered procedure was invalid or non-diagnostic;
+* OPEN means the procedure remains unresolved or incomplete.
+DISCHARGED does not itself say whether exact mapping or exact degeneracy exists.
+The scientific outcome belongs in the human adjudication record and, where appropriate, the terminal SemanticPacket.
+Requiredness Freeze Record
+Also publish the requiredness freeze governing the execution.
+At minimum record:
+* the exact conditional triggers;
+* the preregistration / freeze identity;
+* version and hash where practical;
+* the final resolution of each conditional trigger;
+* the resulting machine requiredness mapping;
+* and the post-run comparison between the frozen rules and the population actually used.
+This record makes visible not merely what the final Lean ledger contains, but why each some _ or none was lawful.
+9.4 Machine Population
+Release the machine population needed to reproduce the encoded endpoint.
+Do not publish a single aggregate verdict without the component states that produced it.
+9.4.1 Top-Level Routing
+Release:
+* ClaimProfile;
+* UpdateClass;
+* the populated CasePacket;
+* the effective top-level burden vector;
+* and the aggregate disposition.
+The component vector must be published before or alongside the aggregate result.
+An aggregate FAIL does not mean every top-level burden failed.
+9.4.2 Sₘ Experiment State
+Where Sₘ is live, release:
+* SuccessorExperimentRoute;
+* SuccessorExperimentLedger;
+* the result of CoreSuccessorSeatsDeclared where used;
+* and the result of ExperimentReadyForEmpiricalRun.
+For a completed or negative case, describe ExperimentReadyForEmpiricalRun as a property of the supplied versioned ledger snapshot.
+Do not translate it into ordinary-language chronological project status.
+9.4.3 Semantic Result
+Release the complete SemanticPacket, including:
+* channel-set identity;
+* admission;
+* applicability;
+* raw execution;
+* effective execution;
+* result / evidence provenance;
+* protection non-vacuity;
+* channel relation;
+* evidence dependence.
+The scientific result represented by this packet remains domain-supplied.
+The packet does not turn its own terminal label into evidence for that label.
+9.4.4 Case Binding
+Where Sₘ is live, release the corresponding SuccessorExperimentCase or its exact machine equivalent so that the ledger and semantic packet can be identified as one case.
+9.4.5 Support and Case-License Results
+Where a public claim depends on the CCP support architecture, release the relevant support and case-license result.
+Examples include:
+* StructuralProtectionSupportReady;
+* EmpiricalDiscriminationSupportReady;
+* ExactNonIdentificationSupportReady;
+* StructuralProtectionCaseLicensed;
+* EmpiricalDiscriminationCaseLicensed;
+* ExactNonIdentificationCaseLicensed.
+These are conditional machine licenses over a supplied scientific record.
+Public wording should say that a claim is supported, licensed, consistent, or machine-checked at the encoded scope.
+Do not say that Lean independently proved the underlying physical result.
+9.4.6 Routing-Consistency and Firewall Checks
+Release the routing-consistency theorem or evaluation result where it materially defines the endpoint.
+Also release important negative or firewall checkpoints where they are necessary to understand what the machine prevented.
+For example, a release may need to show that:
+* exact non-identifiability blocks execution PASS;
+* a required OPEN burden blocks empirical readiness;
+* a structural-protection result does not imply empirical discrimination;
+* or a downstream state is consistent with the supplied terminal adjudication.
+Report only the checkpoints actually relevant to the released claim.
+Do not turn every public execution into a dump of the adapter’s entire theorem catalogue.
+9.5 Reproducibility Artifacts
+Release the scientific and machine artifacts needed for independent reconstruction, to the extent they exist for the case.
+As applicable, include:
+* raw or released data;
+* derived-data manifests;
+* equations and controlled calculations;
+* analysis code;
+* notebooks or scripts;
+* solver implementation;
+* simulation configuration;
+* forward-model implementation;
+* comparator implementation;
+* fitting or profiling configuration;
+* calibration records;
+* nuisance-model specification;
+* uncertainty treatment;
+* environment or dependency information;
+* figures or tables that carry part of the adjudication;
+* and any case-specific machine file layered on top of the reusable CCP adapter.
+For machine reproduction, provide:
+* exact Universal Kernel file / version;
+* exact CCP adapter file / version;
+* exact case-specific Lean file / version where one exists;
+* cryptographic hashes where practical;
+* load or import order;
+* Lean / compiler / browser environment where relevant;
+* and raw machine output.
+For the tested concatenation workflow used by this package, the Universal Kernel is loaded first and the CCP adapter below it.
+A valid packaged import structure may provide the same dependency relation.
+The companion itself is not imported by Lean.
+The machine reproducibility record should establish which encoded source was actually checked. It does not establish that the physical premises encoded in that source are true.
+9.6 Freeze, Deviation, and Case-Binding Audit
+A preregistration proves only that a rule was frozen at one point in time.
+A public result must also show what happened afterward.
+Release:
+PRE-EXECUTION FREEZE RECORD
+The exact identity and version of the scientific registration, protocol, requiredness rules, analysis rule, and result rule frozen before target adjudication.
+PREDECLARED ADAPTIVE BRANCHES
+Any conditional analysis branch, trigger, allowed protocol adaptation, or decision rule that was part of the frozen design.
+POST-EXECUTION DEVIATION AUDIT
+State either:
+NO MATERIAL DEVIATION
+or identify every material deviation.
+For each deviation record:
+* what changed;
+* when it changed;
+* whether target-result access had already occurred;
+* whether the change was predeclared;
+* whether it was pre-result;
+* whether it was non-substantive;
+* whether it changed the scientific claim, comparator, channel, threshold, evidence rule, or decision rule;
+* its effect on the released result;
+* whether the execution remains admissible under the original freeze;
+* and whether the change required a new execution identifier.
+A material post-result change that alters the claim or decision rule must not be hidden inside the old execution.
+Case-Binding Record
+Publish one record tying the following to the same case and execution:
+* scientific registration;
+* CasePacket;
+* human requiredness manifest;
+* SuccessorExperimentLedger;
+* SemanticPacket;
+* SuccessorExperimentCase;
+* evidence and analysis artifacts;
+* and machine output.
+Use exact versions, release identifiers, and hashes where practical.
+The machine does not independently prove that two human scientific records refer to the same physical execution.
+That record-identity burden belongs in the public manifest.
+Negative Results
+For every negative result, explicitly report:
+FAILED / BLOCKING OBJECT
+The exact completion, burden, route, procedure, support condition, or other object that failed or blocked the claim.
+PARENT / PARALLEL STATUS NOT CHANGED
+Any independently established result that the negative finding does not erase.
+Do not promote a local failure into a broader failure merely because the objects are related.
+Where more than one OPEN or VIOLATED burden exists, additionally report:
+GOVERNING BLOCKER
+The burden that currently prevents the relevant adjudication most directly.
+SECONDARY BLOCKERS
+Other live unresolved or violated burdens that would still require repair if the governing blocker were removed.
+9.7 Claim Ceiling
+Every released execution ends with three explicit statements.
+SCIENTIFIC RESULT
+State the narrowest scientific sentence supported by the domain evidence.
+This is the physics-facing result.
+MACHINE RESULT
+State what the clean adapter execution, support predicate, license predicate, or theorem establishes about the supplied machine population at its declared scope.
+This is the formal conditional result.
+It must not be written as though the machine independently supplied the scientific premises.
+NON-CLAIM / CEILING
+State the nearest tempting stronger conclusion that the release does not license.
+A typical pattern is:
+SCIENTIFIC RESULT
+The frozen local-history channels are exactly reproduced by the admitted matched comparator under the registered comparison.
+MACHINE RESULT
+The populated case is licensed as exact non-identification at the encoded scope and cannot be promoted to empirical-discrimination PASS.
+NON-CLAIM / CEILING
+This does not establish universal observational equivalence and does not erase an independently supported protection result.
+The exact language will vary by case. The three-part separation should not.
+Status Changes
+If the release changes a previously public scientific status, append the status-change record defined in Section 8:
+TARGET
+What prior object or claim is under challenge.
+CHANGE TYPE
+Refute / reopen / extend / supersede / repair, as applicable.
+HELD FIXED
+The scope, referent, mechanism version, comparator, channel, or other conditions retained from the earlier result.
+CHANGED
+The evidence, channel, calculation, model, assumption, procedure, or machine object that changed.
+EVIDENCE
+The source support for the change.
+RESULTING ACTION
+The exact status change licensed by that evidence.
+A broader new question normally creates a broader case. It does not silently rewrite a narrower prior result.
+9.8 Final Human Coherence Attestation
+Before release, a responsible human adjudicator should attest that the released scientific record and machine population still describe one coherent execution.
+At minimum confirm:
+* the human audit outcomes agree with the terminal SemanticPacket labels;
+* the top-level routing state agrees with the Sₘ case population;
+* requiredness followed the frozen ALWAYS / CONDITIONAL(trigger) / NOT REQUIRED rules;
+* conditional triggers were resolved according to the frozen record;
+* evidence provenance matches the evidence actually used;
+* procedure-seat outcomes are not being confused with procedure dispositions;
+* phase-sensitive evidence was re-audited where required;
+* the scientific registration, evidence record, machine population, and machine output bind to the same execution;
+* and the public claim does not exceed either the scientific evidence or the machine license.
+This attestation is not a substitute for independent reproduction.
+It closes a different burden: that the released package is internally bound strongly enough for another group to know what, exactly, it is being asked to reproduce.
+The public execution manifest therefore carries one final rule:
+release the scientific case that was actually adjudicated, the evidence that actually supported it, the machine population that actually represented it, and the narrowest claim that actually follows.
+Anything less weakens the audit trail precisely where the contract is supposed to make it strongest.
+________________
+APPENDIX A — From Human Case Record to Lean / Machine Reference
+This appendix is a machine-facing reference for specialists using the CCP package.
+Its purpose is not to teach Lean and not to replace the scientific registration, burden dictionary, operating procedure, or release manifest. It provides the minimum translation surface needed to move from an already-adjudicated human scientific record into the CCP adapter without changing the scientific meaning on the way.
+The governing rule is simple:
+populate the machine from the frozen human record; do not use the machine representation to invent the human record.
+A.1 Load Relation
+For a released execution, use the exact machine files identified in the Section 9 Public Execution Release Manifest.
+The tested dependency order is:
+1. compatible Structural Flow Universal Kernel;
+2. current CCP Stability Routing Adapter;
+3. case-specific Lean definitions or checks, if the execution uses a separate case file.
+For the browser concatenation workflow used during development and checking, the Universal Kernel is loaded first and the CCP adapter below it.
+A valid packaged import structure may express the same dependency relation.
+The companion is not imported by Lean.
+It is a human operating interface. Its role is to tell the user what the machine states mean, how the scientific record should be translated, and what the resulting machine checks do and do not license.
+For a reproducible release, Section 9 should supply the exact:
+* Kernel filename / version;
+* adapter filename / version;
+* case-specific machine file where applicable;
+* hashes where practical;
+* load or import order;
+* Lean / browser environment where relevant;
+* and raw machine output.
+Do not rely on a development filename printed in explanatory prose when the public release manifest identifies a later checked machine file.
+A.2 Human-to-Lean Mapping Reference
+The following map shows where the major human scientific objects enter the adapter.
+It does not decide their values.
+Scientific claim → ClaimProfile
+Human question:
+What cross-update structure does the mechanism actually claim?
+Machine representation:
+ClaimProfile
+Current constructors distinguish claims such as:
+* fit only;
+* description protection;
+* successor continuity;
+* successor protection;
+* description plus continuity;
+* full protection;
+* unresolved.
+The scientific source determines which profile is supported.
+Do not select a stronger profile because it creates a more interesting machine result.
+Scientific update → UpdateClass
+Human question:
+What kind of change is actually being tested?
+Machine representation:
+UpdateClass
+The machine distinguishes:
+* description update;
+* physical successor;
+* mixed case;
+* unresolved update class.
+R₁ and R₂ are description-side updates.
+Sₘ requires a real physical successor.
+A mixed machine case does not create a fourth scientific update class.
+Top-Level Burden Statuses → CasePacket.rawStatus
+Human question:
+What are the supplied statuses of the live top-level routing burdens?
+Machine representation:
+CasePacket.rawStatus
+The top-level status grammar is:
+* PASS;
+* FAIL;
+* NOT LIVE;
+* UNRESOLVED.
+The adapter may normalize a supplied raw status into an effective status according to the registered claim and update routing.
+Publish the component vector before or alongside any aggregate disposition.
+Frozen Channel Manifest → ChannelSet
+Human question:
+On what declared observables, calculations, datasets, or other channels is the adjudication being made?
+Machine representation:
+ChannelSet
+The domain owns the contents of the channel set.
+The adapter does not choose scientifically useful observables.
+Admission Adjudication → AdmissionState
+Human question:
+Are the prerequisite scientific objects specified strongly enough for this branch to be admitted?
+Machine representation:
+AdmissionState
+Typical states are:
+* admitted;
+* not admitted, with the relevant blocker.
+Admission concerns whether the scientific case has been defined strongly enough to enter the machine route.
+It is not an experimental success result.
+Applicability Adjudication → ApplicabilityState
+Human question:
+Does the registered mechanism apply to this branch and laboratory, and what is the current identification status?
+Machine representation:
+ApplicabilityState
+Current states include:
+* live;
+* not live;
+* out of domain;
+* not identifiable.
+notIdentifiable is a supplied scientific adjudication under the frozen comparison.
+Its presence in the machine record is not independent evidence that exact mapping or degeneracy was physically established.
+Execution Result → ExecutionState
+Human question:
+What happened when the admitted live execution was evaluated?
+Machine representation:
+ExecutionState
+Current states include:
+* not run;
+* pass;
+* fail;
+* unresolved with a blocker.
+Execution state is downstream of admission and applicability.
+A non-admitted, non-live, out-of-domain, or exactly non-identifiable branch must not be turned into execution PASS merely by supplying a favorable raw result.
+Evidence Modes → PassProvenance
+Human question:
+What kind of support produced the supplied result?
+Machine representation:
+PassProvenance
+The human-facing label used in this companion is:
+RESULT / EVIDENCE PROVENANCE
+Current provenance faces include:
+* structural;
+* computational;
+* empirical.
+More than one may apply.
+Do not infer empirical discrimination from structural provenance.
+Protection Analysis → ProtectionNonVacuity
+Human question:
+Does the claimed protection arise from the mechanism itself or from freely reselecting a datum after the update?
+Machine representation:
+ProtectionNonVacuity
+Current states include:
+* nonvacuous;
+* fit only;
+* open.
+A fitted comparator reproducing the mechanism's observables is not, by itself, evidence that the mechanism's own protection is fit-only.
+The question is how the mechanism treats its own relevant datum.
+Comparator Relation → ChannelRelation
+Human question:
+What relation holds between the mechanism and admitted comparator on the frozen channels?
+Machine representation:
+ChannelRelation
+Current states distinguish, among others:
+* discriminating;
+* constraint-fixed channel equivalence;
+* below sensitivity;
+* forward-model open;
+* channel open.
+This field reports the supplied scientific relation.
+It does not generate the underlying comparator calculation.
+Evidence Lineage → EvidenceDependence
+Human question:
+How independent are the evidence bases supporting the reported branch results?
+Machine representation:
+EvidenceDependence
+Current distinctions include:
+* independent;
+* partially shared;
+* same structural identity.
+This prevents multiple successful update tests from being counted as independent confirmations when they inherit the same underlying structural result.
+Sₘ Route → SuccessorExperimentRoute
+Human question:
+What kind of physical-successor route follows from the mechanism's actual physics?
+Machine representation:
+SuccessorExperimentRoute
+Current routes include:
+* epoch-local;
+* historical protected transition;
+* whole history.
+Choose the route from the registered physics before target adjudication.
+Do not select the route that gives the most favorable result afterward.
+Human Burden Manifest → SuccessorExperimentLedger
+Human question:
+Which of the 22 possible Sₘ burdens are required, and what is the adjudicated disposition of each?
+Machine representation:
+SuccessorExperimentLedger
+The ledger encodes machine requiredness and disposition.
+The human burden / evidence manifest remains the authority for why each entry is lawful.
+Human Result Record → SemanticPacket
+Human question:
+What terminal scientific state has the domain adjudication supplied?
+Machine representation:
+SemanticPacket
+The packet carries:
+* channel set;
+* admission;
+* applicability;
+* raw execution;
+* provenance;
+* protection non-vacuity;
+* channel relation;
+* evidence dependence.
+The packet records the scientific result surface.
+It does not derive its own physical truth.
+Joined Sₘ Execution → SuccessorExperimentCase
+Human question:
+Which ledger and semantic result belong to this one physical-successor case?
+Machine representation:
+SuccessorExperimentCase
+This joins the machine burden record to the supplied terminal semantics for the same execution.
+The Section 9 Case-Binding Record remains responsible for demonstrating that the human scientific records, evidence, machine definitions, and output genuinely refer to the same released execution.
+A.3 Requiredness Mapping
+Requiredness must be decided in the human scientific contract before the machine ledger is populated.
+The 22 Sₘ seats are not a universal checklist.
+They are a claim-activated routing surface.
+Core Eight
+For every live Sₘ physical-successor case, the first eight burdens are always required:
+1. realChange
+2. protectedSectorMembership
+3. piRelevantChange
+4. mechanismApplicability
+5. inheritedTheoryData
+6. variationConnection
+7. falsificationConnection
+8. freeDatumStability
+Therefore each must appear as:
+some <disposition>
+where the disposition is scientifically adjudicated as:
+* DISCHARGED;
+* VIOLATED;
+* or OPEN.
+They may not be none.
+If one is scientifically trivial, discharge it with an explicit scientific basis.
+Trivial does not mean non-required.
+ALWAYS
+Human manifest:
+ALWAYS
+Lean mapping:
+some <adjudicated disposition>
+CONDITIONAL(trigger) — trigger satisfied
+Human manifest:
+CONDITIONAL(trigger)
+Frozen trigger resolves true.
+Lean mapping:
+some <adjudicated disposition>
+The resulting disposition may be DISCHARGED, VIOLATED, or OPEN.
+CONDITIONAL(trigger) — trigger unresolved
+Human manifest:
+CONDITIONAL(trigger)
+Trigger cannot yet be resolved strongly enough to make the burden non-required.
+Lean mapping:
+some .open
+Do not hide unresolved requiredness as none.
+CONDITIONAL(trigger) — trigger resolves false
+Human manifest:
+CONDITIONAL(trigger)
+Frozen trigger resolves false.
+Lean mapping:
+none
+The burden is genuinely non-required under the frozen rule.
+NOT REQUIRED
+Human manifest:
+NOT REQUIRED
+Lean mapping:
+none
+The release record should retain the human rationale showing why non-requirement was lawful.
+Requiredness Rule
+The safe direction is:
+frozen human claim and trigger rules → requiredness adjudication → Lean ledger
+Never reverse it into:
+Lean none → therefore the science did not require the burden.
+The machine encoding records the requiredness decision.
+It does not create it.
+A.4 Status Mapping and Non-Equivalences
+The adapter contains more than one status grammar.
+They must not be collapsed.
+Top-Level Routing Grammar
+BurdenStatus
+* PASS
+* FAIL
+* NOT LIVE
+* UNRESOLVED
+Sₘ Experiment-Seat Grammar
+ExperimentDisposition
+* DISCHARGED
+* VIOLATED
+* OPEN
+* none when genuinely non-required
+These grammars do different jobs.
+The following non-equivalences are mandatory.
+none ≠ OPEN
+none means the burden is genuinely non-required.
+OPEN means the burden is required and unresolved.
+DISCHARGED ≠ experimental PASS
+DISCHARGED means the burden carried by that seat has been adequately closed under its scientific rule.
+It does not mean the experiment as a whole passed.
+This distinction is especially important for procedure seats.
+A valid mappability audit that establishes exact mapping is DISCHARGED.
+A valid mappability audit that excludes exact mapping is also DISCHARGED.
+The disposition records completion of the audit.
+The human adjudication outcome records what the audit found.
+VIOLATED ≠ automatic whole-case FAIL
+VIOLATED means that the burden represented by that seat failed under its registered criterion.
+Whether that violation defeats:
+* one support route;
+* one completion;
+* one branch;
+* one empirical claim;
+* or a broader parent result
+depends on the frozen scientific dependency structure.
+Do not promote the violation beyond the object it actually reaches.
+notIdentifiable ≠ evidence for exact mapping
+ApplicabilityState.notIdentifiable records the supplied terminal adjudication.
+It cannot be recycled as evidence that the mappability or degeneracy burden was independently discharged.
+The lawful direction is:
+independent comparator / mapping audit
+→ scientific exact-non-identification adjudication
+→ notIdentifiable machine state.
+belowSensitivity ≠ proof of residual size
+A ChannelRelation of below sensitivity records the supplied domain adjudication that a nonzero residual survives but lies below the frozen reach.
+The machine label does not itself measure the residual.
+The scientific analysis must supply that result.
+Sensitivity Non-Requirement ≠ Exact Non-Identification
+For exact non-identification, sensitivity becomes non-required only downstream.
+The lawful direction is:
+exact mapping / degeneracy adjudication
+→ NOT IDENTIFIABLE
+→ sensitivity non-required.
+Never infer:
+sensitivity = none
+→ therefore NOT IDENTIFIABLE.
+A.5 Manifest-First Population Workflow
+Section 5 is the governing full execution procedure. For machine-reference purposes, the order compresses to:
+1. complete and freeze the human scientific registration;
+2. freeze requiredness and every conditional trigger;
+3. adjudicate each required evidence burden from independent scientific support;
+4. transcribe the adjudicated record into the machine constructors;
+5. run the human/machine coherence audit;
+6. run only the support, license, or routing check corresponding to the scientific endpoint being released;
+7. publish the relevant machine output separately from the scientific result.
+Lean construction is transcription of an adjudicated record, not scientific discovery by constructor selection.
+A.6 Copy-Safe Schematic Examples
+The examples below are deliberately schematic.
+They show the shape of machine population without supplying scientific values for a real case.
+Replace these values only from the frozen human manifest; do not infer requiredness from this example.
+They are not generic executable templates.
+A.6.1 Top-Level CasePacket Shape
+Schematic:
+CasePacket
+   * claim := <ClaimProfile from frozen scientific registration>
+   * update := <UpdateClass from frozen update adjudication>
+   * rawStatus := <top-level status vector from human adjudication>
+The scientific record decides each field.
+Do not choose a claim profile or update class in order to obtain a preferred effective disposition.
+A.6.2 Ledger Seat Function Shape
+Schematic:
+SuccessorExperimentLedger
+   * route := <route from frozen Sₘ registration>
+   * seat :=
+   * realChange → some <adjudicated disposition>
+   * protectedSectorMembership → some <adjudicated disposition>
+   * piRelevantChange → some <adjudicated disposition>
+   * mechanismApplicability → some <adjudicated disposition>
+   * inheritedTheoryData → some <adjudicated disposition>
+   * variationConnection → some <adjudicated disposition>
+   * falsificationConnection → some <adjudicated disposition>
+   * freeDatumStability → some <adjudicated disposition>
+   * <conditionally required burden> → some <adjudicated disposition>
+   * <frozen conditional resolving false> → none
+   * <genuinely NOT REQUIRED burden> → none
+The first eight entries are shown explicitly because they are constitutive.
+Do not replace them with none.
+Do not copy the later none examples into a real case without the human requiredness record that justifies them.
+A.6.3 SemanticPacket Shape
+Schematic:
+SemanticPacket
+   * channelSet := <frozen channel manifest>
+   * admission := <domain-adjudicated AdmissionState>
+   * applicability := <domain-adjudicated ApplicabilityState>
+   * rawExecution := <domain-adjudicated ExecutionState>
+   * provenance := <evidence provenance record>
+   * protection := <ProtectionNonVacuity adjudication>
+   * channelRelation := <comparator/reach adjudication>
+   * evidenceDependence := <evidence-lineage adjudication>
+These fields record the supplied scientific result.
+They must not be used as circular support for themselves.
+A.6.4 SuccessorExperimentCase Join
+Schematic:
+SuccessorExperimentCase
+   * ledger := <ledger for this execution>
+   * semantics := <SemanticPacket for this execution>
+The join says that these two machine records are being evaluated as one Sₘ case.
+The public Case-Binding Record must still establish that the underlying human records actually belong to the same physical execution.
+A.6.5 Check Pattern
+Schematic:
+   1. define the case from the frozen human record;
+   2. invoke the support / license / routing check appropriate to the claimed endpoint;
+   3. record the machine result;
+   4. preserve the scientific claim ceiling.
+Example pattern:
+<relevant case-license predicate> <case>
+or:
+<relevant routing-consistency predicate> <case>
+A successful check means the supplied record satisfies the encoded conditional requirements of that predicate.
+It does not independently verify the scientific evidence used to populate the case.
+A.7 Result-to-Check Quick Map
+Use the machine check corresponding to the scientific endpoint actually adjudicated.
+Structural protection
+→ StructuralProtectionCaseLicensed
+Empirical discrimination
+→ EmpiricalDiscriminationCaseLicensed
+Exact non-identification
+→ ExactNonIdentificationCaseLicensed
+plus:
+ExactNonIdentificationRoutingConsistent
+Below sensitivity
+→ BelowSensitivityCaseLicensed
+OPEN
+→ no positive case license; report the governing OPEN burden, material secondary OPEN burdens, and the machine consequence blocked.
+Completion-specific FAIL
+→ report the scoped completion violation and the relevant negative machine checkpoint; also state PARENT / PARALLEL STATUS NOT CHANGED where an independent parent result survives.
+These checks operate on independently populated scientific records. None independently establishes the physical result named by its label.
+A.8 Machine Ceiling
+The adapter checks encoded conditional consequences of supplied scientific records: routing consistency, requiredness consequences, support and case-license conditions, non-implication firewalls, fixture properties, and lawful coexistence of machine states.
+It does not independently establish physical truth, provenance authenticity, correctness of calculations, adequacy of comparators or datasets, honesty of freeze records, physical identity of records, citation fidelity, or that the populated case accurately describes nature.
+The public interpretation is therefore:
+physics and domain analysis supply the premises and scientific adjudication; the CCP adapter checks the encoded support, license, and routing consequences of that supplied record.
+A clean machine result makes conditional reasoning reproducible and auditable. It does not turn conditional consistency into empirical truth.
+________________
+AI Use Disclosure
+Artificial intelligence tools were used during the development of this work for research assistance, adversarial review, conceptual organization, drafting support, editing, consistency checking, and formalization support. The author directed the package architecture, authority boundaries, burden grammar, scientific-to-machine mappings, worked-case interpretation, and final editorial judgments, and takes responsibility for the final content.
